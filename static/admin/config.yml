@@ -8,38 +8,74 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "features"
-    label: "Features"
-    folder: "src/pages/features"
+    label: "Features( Client )"
+    folder: "src/pages/client/features"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "feature-page"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "client-feature-page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body",  widget: "markdown", required: false, default: null}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
-
   - name: "categories"
-    label: "Categories"
-    folder: "src/pages/categories"
+    label: "Categories( Client )"
+    folder: "src/pages/client/categories"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "category-page"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "client-category-page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
-
   - name: "topics"
-    label: "Topics"
-    folder: "src/pages/topics"
+    label: "Topics( Client )"
+    folder: "src/pages/client/topics"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "topic-page"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "client-topic-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
+      - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
+      - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
+      - {label: "Recent Topics", name: recentTopics, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
+      - {label: "Live Demo", name: "liveDemo", widget: string, required: false, default: null}
+  - name: "features"
+    label: "Features( Coach )"
+    folder: "src/pages/coach/features"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "coach-feature-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
+      - {label: "Body", name: "body",  widget: "markdown", required: false, default: null}
+      - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
+  - name: "categories"
+    label: "Categories( Coach )"
+    folder: "src/pages/coach/categories"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "coach-category-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
+      - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
+      - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
+  - name: "topics"
+    label: "Topics( Coach )"
+    folder: "src/pages/coach/topics"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "coach-topic-page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
