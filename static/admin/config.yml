@@ -83,7 +83,6 @@ collections:
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
       - {label: "Recent Topics", name: recentTopics, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
       - {label: "Live Demo", name: "liveDemo", widget: string, required: false, default: null}
-
   - name: "pages"
     label: "Pages"
     files:
