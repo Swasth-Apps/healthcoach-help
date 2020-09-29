@@ -30,6 +30,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
+      - {label: "Related Categories", name: reletedCategories, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
   - name: "topics"
     label: "Topics( Client )"
@@ -43,7 +44,7 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
-      - {label: "Recent Topics", name: recentTopics, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
+      - {label: "Releted Topics", name: recentTopics, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
       - {label: "Live Demo", name: "liveDemo", widget: string, required: false, default: null}
   - name: "features-coach"
     label: "Features( Coach )"
@@ -68,6 +69,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
+      - {label: "Related Categories", name: reletedCategories, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
   - name: "topics-coach"
     label: "Topics( Coach )"
@@ -81,7 +83,7 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body", widget: "markdown", required: false, default: null}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
-      - {label: "Recent Topics", name: recentTopics, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
+      - {label: "Related Topics", name: recentTopics, widget: list, required: false, fields: [{label: title, name: title, widget: string}, {label: slug, name: slug, widget: string}]}
       - {label: "Live Demo", name: "liveDemo", widget: string, required: false, default: null}
   - name: "pages"
     label: "Pages"
