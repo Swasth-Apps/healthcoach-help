@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: How can we help you?
+title: 'How can we help you? '
 image: /img/account_setting.png
 heading: Great coffee with a conscience
 subheading: >-
