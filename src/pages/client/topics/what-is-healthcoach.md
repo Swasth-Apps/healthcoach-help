@@ -1,6 +1,6 @@
 ---
 templateKey: client-topic-page
-title: What is HealthCoach?
+title: What is Health Coach?
 date: 2020-09-30T23:32:51.583Z
 ---
 Health Coach is a coaching platform designed to bring evidence-based therapies to your clients. Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
