@@ -24,19 +24,19 @@ exports.createPages = ({ actions, graphql }) => {
     }
   `).then(result => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()))
+      result.errors.forEach(e => console.error(e.toString()));
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges
+    const posts = result.data.allMarkdownRemark.edges;
 
     posts.forEach(edge => {
-      const id = edge.node.id
+      const id = edge.node.id;
       createPage({
         path: edge.node.fields.slug,
         // tags: edge.node.frontmatter.tags,
         component: path.resolve(
-          `src/templates/${String(edge?.node?.frontmatter?.templateKey?.replace("client-","")?.replace("coach-",""))}.js`
+          `src/templates/${String(edge.node.frontmatter.templateKey.replace("client-","").replace("coach-",""))}.js`
         ),
         // additional data can be passed via context
         context: {
