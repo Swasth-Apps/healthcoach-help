@@ -2,6 +2,9 @@
 templateKey: client-topic-page
 title: Featured Coaches & Programs
 date: 2020-10-01T01:34:56.317Z
+recentTopics:
+  - slug: topics/entries/what-is-a-coach
+    title: What is a Coach?
 ---
 The admin marks featured coaches and programs based on their experience, client reviews, successfully completed programs, etc. 
 
