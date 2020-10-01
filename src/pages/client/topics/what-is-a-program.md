@@ -7,4 +7,4 @@ A program is a series of lessons, tasks, exercises, followed by homework session
 
 Using our platform, coaches can get a holistic view of their clients - mental, emotional, physical, nutrition, bio-feedback etc. This allows them to provide tailored treatment that leads to better outcomes.
 
-![](/img/03_00_sign_up_filled.png)
+![]()
