@@ -9,6 +9,8 @@ recentTopics:
     title: What is a program?
   - slug: categories/entries/support
     title: Support
+  - slug: categories/entries/send-messages
+    title: Send Messages
 ---
 The admin marks featured coaches and programs based on their experience, client reviews, successfully completed programs, etc. 
 
