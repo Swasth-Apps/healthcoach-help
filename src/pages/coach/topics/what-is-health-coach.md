@@ -17,6 +17,5 @@ With our application, you can do the following-
 * You can also choose to participate in our flexible Skills Coaching Network and generate an additional source of revenue. 
 * Assign lessons and exercises to clients as homework, and view their progress
 * Appoint a Co-Coach to help you run a successful clinician practice. 
-* 
 
 Learn More about HealthCoach here.
