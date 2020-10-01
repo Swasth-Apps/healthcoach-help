@@ -9,6 +9,8 @@ recentTopics:
     title: Direct & Group Messages
   - slug: categories/entries/setting-up-your-account
     title: Setting up your Account
+  - slug: categories/entries/support
+    title: Support
 ---
 To become a coach, you need to complete the following steps-
 
