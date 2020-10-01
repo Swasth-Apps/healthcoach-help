@@ -2,6 +2,11 @@
 templateKey: coach-topic-page
 title: How to create a Session?
 date: 2020-10-01T18:14:24.494Z
+recentTopics:
+  - slug: topics-coach/entries/what-is-a-session
+    title: What is a Session?
+  - slug: categories-coach/entries/create-program
+    title: Create Program
 ---
 Here is the step-by-step process for the same-
 
