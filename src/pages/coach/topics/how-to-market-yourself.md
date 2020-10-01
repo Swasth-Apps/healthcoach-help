@@ -2,6 +2,15 @@
 templateKey: coach-topic-page
 title: How to Market yourself?
 date: 2020-10-01T18:51:03.367Z
+recentTopics:
+  - slug: topics-coach/entries/what-is-marketing
+    title: What is Marketing?
+  - slug: topics-coach/entries/invite-join-requests
+    title: Invite & Join Requests
+  - slug: topics-coach/entries/add-content-in-session
+    title: Add Content in Session
+  - slug: categories-coach/entries/create-program
+    title: Create Program
 ---
 Follow the easy-to steps for completing this stage-
 
