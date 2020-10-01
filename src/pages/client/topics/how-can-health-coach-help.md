@@ -5,6 +5,8 @@ date: 2020-10-01T02:24:28.710Z
 recentTopics:
   - slug: topics/entries/what-is-health-coach
     title: What is Health Coach?
+  - slug: topics/entries/how-health-coach-work
+    title: How Health Coach work?
 ---
 Our coaches, via the platform, can help you in dealing with many aspects of your life that affect your overall well being, including-
 
