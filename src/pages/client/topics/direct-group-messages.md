@@ -7,6 +7,8 @@ recentTopics:
     title: Set up your own Library
   - slug: topics/entries/schedule-sessions-tasks-with-my-calendar
     title: Schedule sessions & Tasks with My Calendar
+  - slug: categories/entries/join-program
+    title: Join Program
 ---
 Clients can send direct and group messages to coaches and other clients. 
 
