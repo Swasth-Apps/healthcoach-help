@@ -5,6 +5,8 @@ date: 2020-10-01T01:31:18.615Z
 recentTopics:
   - slug: topics/entries/set-up-your-own-library
     title: Set up your own Library
+  - slug: topics/entries/schedule-sessions-tasks-with-my-calendar
+    title: Schedule sessions & Tasks with My Calendar
 ---
 Clients can send direct and group messages to coaches and other clients. 
 
