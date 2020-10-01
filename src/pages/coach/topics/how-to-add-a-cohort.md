@@ -1,0 +1,8 @@
+---
+templateKey: coach-topic-page
+title: How to add a cohort?
+date: 2020-10-01T18:43:07.478Z
+---
+Cohorts are different sets of batches running at different times. These cohorts are added by the coaches for delivering the program as per their convenience. Clients can select the cohort for joining the program from the available items.  
+
+To add cohort, Click on the "add cohort" as shown in the image, and add the starting day and timing for the new cohort.
