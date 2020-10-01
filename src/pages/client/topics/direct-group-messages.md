@@ -9,6 +9,8 @@ recentTopics:
     title: Schedule sessions & Tasks with My Calendar
   - slug: categories/entries/join-program
     title: Join Program
+  - slug: categories/entries/support
+    title: Support
 ---
 Clients can send direct and group messages to coaches and other clients. 
 
