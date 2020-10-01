@@ -2,6 +2,15 @@
 templateKey: coach-topic-page
 title: What is Marketing?
 date: 2020-10-01T18:50:04.545Z
+recentTopics:
+  - slug: topics-coach/entries/how-to-market-yourself
+    title: How to Market yourself?
+  - slug: categories-coach/entries/set-up-your-own-library-1
+    title: Set up your Own Library
+  - slug: categories-coach/entries/become-a-coach-1
+    title: Become a Coach
+  - slug: categories-coach/entries/overview-of-coaching-platform-1
+    title: Overview of Coaching Platform
 ---
 The question here isn’t how, but why!
 
