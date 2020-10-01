@@ -6,6 +6,8 @@ topics:
   - topic:
       - slug: features/entries/getting-started-for-clients
         title: Getting Started for Clients
+      - slug: categories/entries/overview-of-coaching-platform
+        title: Overview of Coaching Platform
 ---
 We believe in serving our customers to the best of our possibilities. This section is designed to lend a helping hand via the following-
 
