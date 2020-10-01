@@ -9,6 +9,8 @@ recentTopics:
     title: How to Create a Program?
   - slug: topics-coach/entries/how-to-add-a-cohort
     title: How to add a cohort?
+  - slug: categories-coach/entries/support-1
+    title: Support
 ---
 ## What is a Library?
 
