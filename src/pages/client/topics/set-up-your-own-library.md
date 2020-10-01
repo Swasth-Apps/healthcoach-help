@@ -7,6 +7,8 @@ recentTopics:
     title: Send Messages
   - slug: categories/entries/become-a-coach
     title: Become a Coach
+  - slug: topics/entries/view-dashboard
+    title: View Dashboard
 ---
 The Library is a personalized workspace that a client can use for saving relevant images, documents, and links. The client can also use this content in future for delivering programs (if he/she chooses to become a coach). 
 
