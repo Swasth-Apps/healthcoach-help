@@ -1,14 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import { graphql, Link } from 'gatsby'
+import {graphql} from 'gatsby'
 import Layout from '../components/Layout'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import TopicsGrid from '../components/TopicsGrid';
-import Content, { HTMLContent } from '../components/Content'
-
-
+import Content, {HTMLContent} from '../components/Content'
 
 export const CategoryTemplate = ({
   feature,
