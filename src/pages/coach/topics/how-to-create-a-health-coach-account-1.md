@@ -2,6 +2,15 @@
 templateKey: coach-topic-page
 title: How to create a Health Coach account?
 date: 2020-10-01T17:25:35.684Z
+recentTopics:
+  - slug: features-coach/entries/getting-started-for-coaches
+    title: Getting Started for Coaches
+  - slug: topics-coach/entries/what-is-health-coach-1
+    title: What is Health Coach?
+  - slug: topics-coach/entries/invite-other-coaches-to-co-coach
+    title: Invite other Coaches to Co-Coach
+  - slug: categories-coach/entries/support-1
+    title: Support
 ---
 This walkthrough will guide you on how to set up your account and start using features like create programs, add sessions, create your workspace, invite others, appoint Co-Coach, seek support, and much more. 
 
