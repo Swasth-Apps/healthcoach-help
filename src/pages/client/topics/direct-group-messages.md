@@ -2,6 +2,9 @@
 templateKey: client-topic-page
 title: Direct & Group Messages
 date: 2020-10-01T01:31:18.615Z
+recentTopics:
+  - slug: topics/entries/set-up-your-own-library
+    title: Set up your own Library
 ---
 Clients can send direct and group messages to coaches and other clients. 
 
