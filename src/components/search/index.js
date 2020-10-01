@@ -31,11 +31,11 @@ const useClickOutside = (ref, handler, events) => {
   })
 }
 export default function Search({ indices, collapse, hitsAsGrid }) {
-  const ref = createRef()
-  const [query, setQuery] = useState(``)
-  const [focus, setFocus] = useState(false)
-  const searchClient =  algoliasearch('W3Y8BZYHS2', 'bbc901c3fe65c9a5b29a6f638bb5ce4a')
-  useClickOutside(ref, () => setFocus(false))
+  const ref = createRef();
+  const [query, setQuery] = useState(``);
+  const [focus, setFocus] = useState(false);
+  const searchClient =  algoliasearch('W3Y8BZYHS2', 'bbc901c3fe65c9a5b29a6f638bb5ce4a');
+  useClickOutside(ref, () => setFocus(false));
   return (
     <InstantSearch
       searchClient={searchClient}
