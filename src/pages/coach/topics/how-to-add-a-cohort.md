@@ -7,6 +7,8 @@ recentTopics:
     title: Getting Started for Coaches
   - slug: topics-coach/entries/how-to-create-a-health-coach-account-1
     title: How to create a Health Coach account?
+  - slug: topics-coach/entries/invite-other-coaches-to-co-coach
+    title: Invite other Coaches to Co-Coach
 ---
 ## What is a Cohort?
 
