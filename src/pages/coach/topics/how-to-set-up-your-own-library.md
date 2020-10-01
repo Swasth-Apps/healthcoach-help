@@ -1,0 +1,14 @@
+---
+templateKey: coach-topic-page
+title: How to set up your own library?
+date: 2020-10-01T18:54:41.471Z
+---
+## What is a Library?
+
+The Library is a personalized workspace that a coach can create by adding relevant links, documents, and images for enriching the program. A coach can also get the content from our three apps- CBT Companion, ACT Coach, and DBT Coach for adding in the program. 
+
+## To create your library- 
+
+* Add links relevant to your practice and program
+* Add images from your device, or uploads.
+* Add documents from device, or uploads.
