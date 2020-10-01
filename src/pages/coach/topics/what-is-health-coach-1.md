@@ -2,6 +2,15 @@
 templateKey: coach-topic-page
 title: What is Health Coach?
 date: 2020-10-01T17:22:19.315Z
+recentTopics:
+  - slug: topics-coach/entries/how-to-create-a-health-coach-account-1
+    title: How to create a Health Coach account?
+  - slug: topics-coach/entries/how-to-become-a-coach-1
+    title: How to become a Coach?
+  - slug: topics-coach/entries/how-to-create-a-session
+    title: How to create a Session?
+  - slug: topics-coach/entries/invite-other-coaches-to-co-coach
+    title: Invite other Coaches to Co-Coach
 ---
 Health Coach is a coaching platform designed to bring evidence-based therapies to your clients. Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
 
