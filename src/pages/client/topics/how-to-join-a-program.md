@@ -9,6 +9,8 @@ recentTopics:
     title: View Dashboard
   - slug: topics/entries/featured-coaches-programs
     title: Featured Coaches & Programs
+  - slug: topics/entries/what-is-a-coach
+    title: What is a Coach?
 ---
 You can join a program starting with searching by program name via the search bar. Once you’ve stumbled upon the right program, you can send the joining request to a coach. 
 
