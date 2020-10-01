@@ -2,6 +2,9 @@
 templateKey: coach-topic-page
 title: How to add a cohort?
 date: 2020-10-01T18:43:07.478Z
+recentTopics:
+  - slug: features-coach/entries/getting-started-for-coaches
+    title: Getting Started for Coaches
 ---
 ## What is a Cohort?
 
