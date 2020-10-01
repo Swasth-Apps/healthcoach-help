@@ -26,6 +26,11 @@ topics:
         title: Join Requests
       - slug: categories-coach/entries/co-coaching-sessions
         title: Co-Coaching Sessions
+  - topic:
+      - slug: categories-coach/entries/marketing
+        title: Marketing
+      - slug: categories-coach/entries/support-1
+        title: Support
 ---
 This section is aimed to provide all the necessary details and resources required for digitizing your practice. HealthCoach provides a platform to connect with your clients and successfully deliver your services. Set up a group and individual programs, accept payments, sign contracts - everything needed to run a successful behavioral health coaching practice.
 
