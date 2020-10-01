@@ -7,6 +7,8 @@ recentTopics:
     title: What is a Coach?
   - slug: topics/entries/direct-group-messages
     title: Direct & Group Messages
+  - slug: categories/entries/setting-up-your-account
+    title: Setting up your Account
 ---
 To become a coach, you need to complete the following steps-
 
