@@ -1,7 +1,7 @@
 ---
 templateKey: topic-page
 title: Access to Clinician Platform
-date: 2019-09-06T22:04:45.246Z
+date: 2019-09-30T07:00:00.000Z
 topics: []
 recentTopics:
   - slug: topics/adding-a-new-client
