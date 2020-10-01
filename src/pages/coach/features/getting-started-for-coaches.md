@@ -19,6 +19,13 @@ topics:
         title: Add Tasks
       - slug: categories-coach/entries/add-cohorts
         title: Add Cohorts
+  - topic:
+      - slug: categories-coach/entries/set-up-your-own-library-1
+        title: Set up your Own Library
+      - slug: categories-coach/entries/join-requests
+        title: Join Requests
+      - slug: categories-coach/entries/co-coaching-sessions
+        title: Co-Coaching Sessions
 ---
 This section is aimed to provide all the necessary details and resources required for digitizing your practice. HealthCoach provides a platform to connect with your clients and successfully deliver your services. Set up a group and individual programs, accept payments, sign contracts - everything needed to run a successful behavioral health coaching practice.
 
