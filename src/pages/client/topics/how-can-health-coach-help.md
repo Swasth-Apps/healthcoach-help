@@ -2,6 +2,9 @@
 templateKey: client-topic-page
 title: How can Health Coach help?
 date: 2020-10-01T02:24:28.710Z
+recentTopics:
+  - slug: topics/entries/what-is-health-coach
+    title: What is Health Coach?
 ---
 Our coaches, via the platform, can help you in dealing with many aspects of your life that affect your overall well being, including-
 
