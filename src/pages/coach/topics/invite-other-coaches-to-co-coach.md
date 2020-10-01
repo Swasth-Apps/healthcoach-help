@@ -2,6 +2,15 @@
 templateKey: coach-topic-page
 title: Invite other Coaches to Co-Coach
 date: 2020-10-01T18:58:10.007Z
+recentTopics:
+  - slug: features-coach/entries/getting-started-for-coaches
+    title: Getting Started for Coaches
+  - slug: categories-coach/entries/add-cohorts
+    title: Add Cohorts
+  - slug: topics-coach/entries/invite-join-requests
+    title: Invite & Join Requests
+  - slug: categories-coach/entries/support-1
+    title: Support
 ---
 Co-Coaching is a feature that allows the coaches to invite other coaches to assist them in running the program. The co-coach can be invited for the following reasons-
 
