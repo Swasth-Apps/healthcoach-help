@@ -2,6 +2,13 @@
 templateKey: coach-topic-page
 title: How to set up your own library?
 date: 2020-10-01T18:54:41.471Z
+recentTopics:
+  - slug: topics-coach/entries/what-is-a-program-1
+    title: What is a program?
+  - slug: topics-coach/entries/how-to-create-a-program
+    title: How to Create a Program?
+  - slug: topics-coach/entries/how-to-add-a-cohort
+    title: How to add a cohort?
 ---
 ## What is a Library?
 
