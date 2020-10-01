@@ -7,5 +7,7 @@ recentTopics:
     title: My Library
   - slug: categories/entries/view-featured
     title: View Featured
+  - slug: categories/entries/join-program
+    title: Join Program
 ---
 Check out all your scheduled sessions and upcoming tasks with the user-friendly and customized calendar.
