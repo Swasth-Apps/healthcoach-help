@@ -5,6 +5,8 @@ date: 2020-10-01T18:43:07.478Z
 recentTopics:
   - slug: features-coach/entries/getting-started-for-coaches
     title: Getting Started for Coaches
+  - slug: topics-coach/entries/how-to-create-a-health-coach-account-1
+    title: How to create a Health Coach account?
 ---
 ## What is a Cohort?
 
