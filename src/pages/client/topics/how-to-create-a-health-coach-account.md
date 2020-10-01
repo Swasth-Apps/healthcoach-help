@@ -7,6 +7,8 @@ recentTopics:
     title: Overview of Coaching Platform
   - slug: topics/entries/how-to-join-a-program
     title: How to Join a Program?
+  - slug: categories/entries/dashboard
+    title: Dashboard
 ---
 This walkthrough will guide you on how to set up your account and start using features like join programs, schedule sessions, set up a library, become a coach, seek support, and much more. 
 
