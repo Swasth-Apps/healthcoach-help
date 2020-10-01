@@ -5,6 +5,8 @@ date: 2020-10-01T02:11:07.445Z
 recentTopics:
   - slug: topics/entries/what-is-a-coach
     title: What is a Coach?
+  - slug: topics/entries/direct-group-messages
+    title: Direct & Group Messages
 ---
 To become a coach, you need to complete the following steps-
 
