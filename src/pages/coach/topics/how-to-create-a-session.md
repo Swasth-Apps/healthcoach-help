@@ -7,6 +7,10 @@ recentTopics:
     title: What is a Session?
   - slug: categories-coach/entries/create-program
     title: Create Program
+  - slug: topics-coach/entries/how-to-create-tasks
+    title: How to create Tasks?
+  - slug: categories-coach/entries/add-cohorts
+    title: Add Cohorts
 ---
 Here is the step-by-step process for the same-
 
