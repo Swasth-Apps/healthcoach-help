@@ -47,5 +47,8 @@ categories:
     - image: /img/account-setting.png
       slug: categories-coach/entries/co-coaching-sessions
       title: Invite Co-Coaches
+    - image: /img/account-setting.png
+      slug: categories-coach/entries/marketing
+      title: Marketing
 ---
 
