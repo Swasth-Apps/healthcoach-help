@@ -39,8 +39,8 @@ categories:
       slug: categories-coach/entries/add-cohorts
       title: Add Cohorts
     - image: /img/report.png
-      slug: insights-reporting
-      title: Insights and Reporting
+      slug: categories-coach/entries/set-up-your-own-library-1
+      title: My Library
     - image: /img/security.png
       slug: security
       title: Security
