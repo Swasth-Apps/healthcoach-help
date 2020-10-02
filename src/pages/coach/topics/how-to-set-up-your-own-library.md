@@ -14,10 +14,14 @@ recentTopics:
 ---
 ## What is a Library?
 
+![My Library](/img/my-library.png "My Library")
+
 The Library is a personalized workspace that a coach can create by adding relevant links, documents, and images for enriching the program. A coach can also get the content from our three apps- CBT Companion, ACT Coach, and DBT Coach for adding in the program. 
 
-## To create your library- 
+## To create your library-
 
 * Add links relevant to your practice and program
 * Add images from your device, or uploads.
 * Add documents from device, or uploads.
+
+![](/img/upload-content.png)
