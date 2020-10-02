@@ -4,7 +4,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 import { Link } from 'gatsby';
 import { routes } from './constants';
 
-const TopicsGrid = ({ heading, topic }) => (
+const TopicsGrid = ({ heading, topic,isClient }) => (
   <div className={`container ${heading ? 'box' : 'content'}`}>
     {
       heading ? <h3 className="topic-grid-title base-text">{heading}</h3> : ''
@@ -12,7 +12,7 @@ const TopicsGrid = ({ heading, topic }) => (
     <ul>
     {
       topic ? topic.map(({title, slug}) => (
-        <Link to={slug}><li className="topic-grid-link para-text">{title}</li></Link>
+        <Link to={`${isClient ? "client" : "coach"}/${slug}`}><li className="topic-grid-link para-text">{title}</li></Link>
       )) : ''
     }
     </ul>
