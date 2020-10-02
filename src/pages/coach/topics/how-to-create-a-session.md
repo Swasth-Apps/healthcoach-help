@@ -23,3 +23,5 @@ Here is the step-by-step process for the same-
 * Go ahead, and fill out the description box, if need be.
 
 Press continue, and you are done creating a new session.
+
+![Add Sessions](/img/how-to-add-sessions.png "Add Sessions")
