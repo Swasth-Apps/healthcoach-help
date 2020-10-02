@@ -12,7 +12,7 @@ export const CategoryTemplate = ({
                                      helmet,
                                      content,
                                      contentComponent,
-                                     isClient
+                                     isClient = false
                                  }) => {
     const {title, featuredimage, topics} = feature;
     const PostContent = contentComponent || Content;
@@ -57,6 +57,7 @@ CategoryTemplate.propTypes = {
 
 const Feature = ({data, ...props}) => {
     const {markdownRemark: post} = data;
+    console.log(props)
     return (
         <Layout>
             <CategoryTemplate
