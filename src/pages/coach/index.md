@@ -42,7 +42,7 @@ categories:
       slug: categories-coach/entries/set-up-your-own-library-1
       title: My Library
     - image: /img/security.png
-      slug: security
-      title: Security
+      slug: categories-coach/entries/join-requests
+      title: Join Requests
 ---
 
