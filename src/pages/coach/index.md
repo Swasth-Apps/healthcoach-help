@@ -36,8 +36,8 @@ categories:
       slug: categories-coach/entries/add-tasks
       title: Add Tasks
     - image: /img/insurance.png
-      slug: insurance-billing
-      title: Insurance Billing
+      slug: categories-coach/entries/add-cohorts
+      title: Add Cohorts
     - image: /img/report.png
       slug: insights-reporting
       title: Insights and Reporting
