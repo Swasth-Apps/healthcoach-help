@@ -7,7 +7,6 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import TopicsGrid from '../components/TopicsGrid';
 import Content, {HTMLContent} from '../components/Content'
 import ReactPlayer from 'react-player'
-import {routes} from "../components/constants";
 
 export const TopicsTemplate = ({
                                    feature,
@@ -125,13 +124,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        featuredimage{
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         topics{
           heading,
           topic{

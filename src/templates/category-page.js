@@ -93,13 +93,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        featuredimage{
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         topics{
           heading,
           topic{

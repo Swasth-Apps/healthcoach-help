@@ -8,7 +8,7 @@ const FeatureGrid = ({ gridItems,isClient }) => (
   <div className="columns is-multiline feature-grid ">
     {gridItems.map(item => (
       <div key={item.title} className="column is-4">
-        <Link to={`${routes[isClient ? "clientFeatures" : "coachFeatures"]}/${item.slug}`}>
+        <Link to={`${routes[isClient ? "client" : "coach"]}/${item.slug}`}>
         <section className="section feature-grid-item" style={{ padding: "5px" }}>
           <div className="has-text-centered feature-grid-box">
               <div className="feature-grid-img-box">

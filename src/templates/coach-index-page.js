@@ -92,19 +92,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "coach-index-page" } }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        heading
-        subheading
-        description
         features {
-          description
-          heading
           feature {
             title
             slug
@@ -119,8 +107,6 @@ export const pageQuery = graphql`
           }
         }
         categories {
-          description
-          heading
           category {
             title
             slug
