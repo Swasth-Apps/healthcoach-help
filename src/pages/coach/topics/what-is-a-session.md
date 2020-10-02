@@ -13,3 +13,5 @@ recentTopics:
     title: Invite other Coaches to Co-Coach
 ---
 Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a period of time. These sessions can be either in-office or video as per the flexibility of both parties.
+
+![](/img/add-sessions.png)
