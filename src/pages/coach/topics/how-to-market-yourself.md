@@ -14,6 +14,8 @@ recentTopics:
 ---
 Follow the easy-to steps for completing this stage-
 
+![Marketing](/img/marketing.png "Marketing")
+
 * Enter a video URL showcasing your profile and work.
 * Add a description of your coaching experience and why should a client hire you amongst the bunch of coaches.
 * Detail the learnings a client would take with them with the “what you’ll learn” section.
