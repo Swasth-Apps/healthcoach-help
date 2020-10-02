@@ -50,5 +50,8 @@ categories:
     - image: /img/account-setting.png
       slug: categories-coach/entries/marketing
       title: Marketing
+    - image: /img/account-setting.png
+      slug: categories-coach/entries/support-1
+      title: Support
 ---
 
