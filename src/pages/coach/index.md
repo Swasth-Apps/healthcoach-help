@@ -27,8 +27,8 @@ categories:
       slug: categories-coach/entries/become-a-coach-1
       title: Become a Coach
     - image: /img/schedule.png
-      slug: scheduling-and-calendar
-      title: Scheduling and Calendar
+      slug: categories-coach/entries/create-program
+      title: Create Program
     - image: /img/client-portal.png
       slug: client-portal
       title: Client Portal
