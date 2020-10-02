@@ -46,6 +46,6 @@ categories:
       title: Join Requests
     - image: /img/account-setting.png
       slug: categories-coach/entries/co-coaching-sessions
-      title: Co-Coaching Sessions
+      title: Invite Co-Coaches
 ---
 
