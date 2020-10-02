@@ -33,4 +33,6 @@ In the third step, mention the type of entity, mobile number, email id to set up
 
 Lastly, there is a confirmation stage, and here you can change the duration of the program, payable amount, tags, apps to use and confirm it to get started. 
 
+![Create Program- Confirm](/img/create-program-confirm.png "Create Program- Confirm")
+
 Here, you’re done creating the basic version of your program. However, the process doesn’t end here. The next sets of guides help you in adding tasks, sessions, cohorts, setting up libraries, and much more to create a fully-fledged program for your clients.
