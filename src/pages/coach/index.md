@@ -18,14 +18,14 @@ features:
 categories:
   category:
     - image: /img/account-setting.png
-      slug: account-settings
-      title: Account Settings
+      slug: categories-coach/entries/overview-of-coaching-platform-1
+      title: Coaching Platform
     - image: /img/clinician_tools.png
-      slug: clinician-tools
-      title: Clinician tools
+      slug: categories-coach/entries/setting-up-your-account-1
+      title: Account Setup
     - image: /img/client-notes.png
-      slug: client-notes-documentation
-      title: Client Notes & Documentation
+      slug: categories-coach/entries/become-a-coach-1
+      title: Become a Coach
     - image: /img/schedule.png
       slug: scheduling-and-calendar
       title: Scheduling and Calendar
