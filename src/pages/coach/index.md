@@ -33,8 +33,8 @@ categories:
       slug: categories-coach/entries/add-sessions
       title: Add Sessions
     - image: /img/billing-clients.png
-      slug: billing-your-clients
-      title: Billing Your Clients
+      slug: categories-coach/entries/add-tasks
+      title: Add Tasks
     - image: /img/insurance.png
       slug: insurance-billing
       title: Insurance Billing
