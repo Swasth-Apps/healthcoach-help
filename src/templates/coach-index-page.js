@@ -14,13 +14,13 @@ export const IndexPageTemplate = ({
                                       title,
                                       features,
                                       categories,
-                                      isClient
+                                      isClient= false
                                   }) => (
     <div className="home-top">
         <div className="full-width-image margin-top-0 home-back">
             <div className="home-head-box">
                 <h1 className="head-title base-text">
-                    How can we help you?
+                    {title}
                 </h1>
                 <Search indices={searchIndices}/>
             </div>
@@ -65,12 +65,10 @@ IndexPageTemplate.propTypes = {
 };
 
 const IndexPage = (props) => {
-    console.log(props);
     const {features, categories} = props.data;
     return (
-        <Layout transparent={true} isClient={props.isClient}>
+        <Layout transparent={true}>
             <IndexPageTemplate
-                isClient={props.isClient}
                 features={features}
                 categories={categories}
             />

@@ -42,18 +42,18 @@ export const CategoryTemplate = ({
       </div>
     </section>
   )
-}
+};
 
 CategoryTemplate.propTypes = {
   helmet: PropTypes.object,
   feature: PropTypes.object,
   content: PropTypes.node,
   contentComponent: PropTypes.func,
-}
+};
 
-const Feature = ({ data }) => {
+const Feature = ({ data,...props }) => {
   const { markdownRemark: post } = data;
-
+  console.log(props)
   return (
     <Layout>
       <CategoryTemplate

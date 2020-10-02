@@ -16,7 +16,6 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "client-feature-page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: Description, name: description, widget: string}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body",  widget: "markdown", required: false, default: null}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
@@ -55,7 +54,6 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "coach-feature-page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: Description, name: description, widget: string}
       - {label: "Featured Image", name: "featuredimage", widget: image, required: false, default: null}
       - {label: "Body", name: "body",  widget: "markdown", required: false, default: null}
       - {label: "Topics", name: topics, widget: list, required: false, fields: [{label: Heading, name: heading, widget: string, required: false, default: null}, {label: Description, name: description, widget: text, required: false, default: null}, {label: "topic", name: "topic", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}]}]}
@@ -88,11 +86,11 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/index.md"
-        label: "Landing Page"
+      - file: "src/pages/client/index.md"
+        label: "Client Landing Page"
         name: "index"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "indexPage"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "client-index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
@@ -100,12 +98,16 @@ collections:
           - {label: Description, name: description, widget: string}
           - {label: "Features", name: features, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: "feature", name: "feature", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}, {label: Image, name: image, widget: image}]}]}
           - {label: "Categories", name: categories, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: "category", name: "category", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}, {label: Image, name: image, widget: image}]}]}
-
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
+      - file: "src/pages/coach/index.md"
+        label: "Coach Landing Page"
+        name: "index"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "coach-index-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Subheading, name: subheading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Features", name: features, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: "feature", name: "feature", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}, {label: Image, name: image, widget: image}]}]}
+          - {label: "Categories", name: categories, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: "category", name: "category", widget: list, fields: [{label: Title, name: title, widget: string}, {label: Slug, name: slug, widget: string}, {label: Image, name: image, widget: image}]}]}
 

@@ -65,12 +65,11 @@ IndexPageTemplate.propTypes = {
 };
 
 const IndexPage = (props) => {
-    console.log(props);
     const {features, categories} = props.data;
     return (
-        <Layout transparent={true} isClient={props.isClient}>
+        <Layout transparent={true} isClient>
             <IndexPageTemplate
-                isClient={props.isClient}
+                isClient
                 features={features}
                 categories={categories}
             />
