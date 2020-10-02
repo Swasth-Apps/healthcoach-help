@@ -4,11 +4,11 @@ import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import { Link } from "gatsby";
 import { routes } from "./constants";
 
-const CategoriesGrid = ({ gridItems }) => (
+const CategoriesGrid = ({ gridItems,isClient }) => (
   <div className="columns is-multiline category-grid">
     {gridItems.map(item => (
       <div key={item.title} className="column is-4">
-        <Link to={`${routes.categories}/${item.slug}`}>
+        <Link to={`${routes[isClient ? "clientCategories" : "coachCategories"]}/${item.slug}`}>
           <section className="section category-grid-item" style={{ padding: "5px" }}>
             <div className="has-text-centered category-grid-box">
               <div className="category-grid-content-box">

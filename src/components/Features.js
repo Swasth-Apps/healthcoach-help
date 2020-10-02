@@ -4,11 +4,11 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import { Link } from 'gatsby';
 import { routes } from './constants';
 
-const FeatureGrid = ({ gridItems,description }) => (
+const FeatureGrid = ({ gridItems,description,isClient }) => (
   <div className="columns is-multiline feature-grid ">
     {gridItems.map(item => (
       <div key={item.title} className="column is-4">
-        <Link to={`${routes.features}/${item.slug}`}>
+        <Link to={`${routes[isClient ? "clientFeatures" : "coachFeatures"]}/${item.slug}`}>
         <section className="section feature-grid-item" style={{ padding: "5px" }}>
           <div className="has-text-centered feature-grid-box">
               <div className="feature-grid-img-box">

@@ -1,7 +1,10 @@
 export const routes= {
-    features: "features",
-    categories: "categories",
-    topics: 'topics'
-}
+    clientFeatures: "client/features",
+    clientCategories: "client/categories",
+    clientTopics: 'client/topics',
+    coachFeatures: "coach/features",
+    coachCategories: "coach/categories",
+    coachTopics: 'coach/topics'
+};
 
 export default routes;
