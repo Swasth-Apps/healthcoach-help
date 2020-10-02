@@ -21,6 +21,8 @@ Creating a program is primarily a four-step process, later sections would enlist
 
 In the first step, you need to enter an easy-to-understand name of the program, followed by a brief description of the same. 
 
+![Create Program](/img/create-program.png "Create Program")
+
 The second step would require you to enter the number of clients that are going to be entertained in a session. Add the duration of a session, additional documents, tags and the relevant app to use from our library to complete this stage. 
 
 ![Create Program- Connect Stripe](/img/create-program-connect-stripe.png "Create Program- Connect Stripe")
