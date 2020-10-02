@@ -12,6 +12,8 @@ recentTopics:
   - slug: categories-coach/entries/support-1
     title: Support
 ---
+![Add Co-Coaches](/img/add-co-coaches.png "Add Co-Coaches")
+
 Co-Coaching is a feature that allows the coaches to invite other coaches to assist them in running the program. The co-coach can be invited for the following reasons-
 
 * If the leading coach is only available for sessions and can’t respond to individual queries.
