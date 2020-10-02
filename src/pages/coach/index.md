@@ -1,60 +1,57 @@
 ---
 templateKey: index-page
-title: How can we help you?
-image: /img/account_setting.png
-heading: Great coffee with a conscience
-subheading: >-
-  Swasth helps you grow your practice by providing you with tools that are
-  simple and effective. By reviewing your clients' behavioral health data in
-  real-time you can better tailor your treatment approach. Schedule
-  appointments, assign homework and assessments, secure client chat and
-  teletherapy all via a secure HIPAA-compliant platform.
-description: >-
-  Swasth for Clinicians is an engagement platform for behavioral health
-  practitioners using evidence based treatment modalities.
+title: Easily bring Evidence-Based Therapies to Clients
 features:
-  heading: Getting Started with Swasth® for Clinicians
-  description: Getting started with Swasth for Clinicians
   feature:
-    - image: /img/account_setting.png
-      slug: getting-started-with-swasth®-for-clinicians
+    - description: Getting Started for Coaches
+      image: /img/account_setting.png
+      slug: getting-started-for-coaches
       title: Quick start
-    - image: /img/video.png
+    - description: Start watching our videos
+      image: /img/video.png
       slug: videos
       title: Videos
-    - image: /img/important_topics.png
+    - description: Check out the list of Important Topics
+      image: /img/important_topics.png
       slug: important-topics
       title: Important topics
 categories:
   category:
     - image: /img/account-setting.png
-      slug: account-settings
-      title: Account Settings
+      slug: categories-coach/entries/overview-of-coaching-platform-1
+      title: Coaching Platform
     - image: /img/clinician_tools.png
-      slug: clinician-tools
-      title: Clinician tools
+      slug: categories-coach/entries/setting-up-your-account-1
+      title: Account Setup
     - image: /img/client-notes.png
-      slug: client-notes-documentation
-      title: Client Notes & Documentation
+      slug: categories-coach/entries/become-a-coach-1
+      title: Become a Coach
     - image: /img/schedule.png
-      slug: scheduling-and-calendar
-      title: Scheduling and Calendar
+      slug: categories-coach/entries/create-program
+      title: Create Program
     - image: /img/client-portal.png
-      slug: client-portal
-      title: Client Portal
+      slug: categories-coach/entries/add-sessions
+      title: Add Sessions
     - image: /img/billing-clients.png
-      slug: billing-your-clients
-      title: Billing Your Clients
+      slug: categories-coach/entries/add-tasks
+      title: Add Tasks
     - image: /img/insurance.png
-      slug: insurance-billing
-      title: Insurance Billing
+      slug: categories-coach/entries/add-cohorts
+      title: Add Cohorts
     - image: /img/report.png
-      slug: insights-reporting
-      title: Insights and Reporting
+      slug: categories-coach/entries/set-up-your-own-library-1
+      title: My Library
     - image: /img/security.png
-      slug: security
-      title: Security
-  heading: Browse All Topics
-  description: Help topics organized by categories for easy browsing
+      slug: categories-coach/entries/join-requests
+      title: Join Requests
+    - image: /img/account-setting.png
+      slug: categories-coach/entries/co-coaching-sessions
+      title: Invite Co-Coaches
+    - image: /img/account-setting.png
+      slug: categories-coach/entries/marketing
+      title: Marketing
+    - image: /img/account-setting.png
+      slug: categories-coach/entries/support-1
+      title: Support
 ---
 
