@@ -12,9 +12,9 @@ recentTopics:
   - slug: topics-coach/entries/invite-other-coaches-to-co-coach
     title: Invite other Coaches to Co-Coach
 ---
+![Health Coach](/img/coach-profile.png "Health Coach")
+
 Health Coach is a coaching platform designed to bring evidence-based therapies to your clients. Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
-
-
 
 With our application, you can do the following-
 
@@ -27,4 +27,4 @@ With our application, you can do the following-
 * Assign lessons and exercises to clients as homework, and view their progress
 * Appoint a Co-Coach to help you run a successful clinician practice. 
 
-Learn More about HealthCoach [here](https://healthcoach.swasth.co/coach).
+Learn More about HealthCoach [here](https://healthcoach.swasth.co/coach).
