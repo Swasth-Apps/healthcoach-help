@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Easily bring Evidence-Based Therapists to Clients
+title: Easily bring Evidence-Based Therapies to Clients
 features:
   feature:
     - description: Getting Started for Coaches
