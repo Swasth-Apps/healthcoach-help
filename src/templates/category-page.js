@@ -53,7 +53,6 @@ CategoryTemplate.propTypes = {
 
 const Feature = ({ data,...props }) => {
   const { markdownRemark: post } = data;
-  console.log(props)
   return (
     <Layout>
       <CategoryTemplate

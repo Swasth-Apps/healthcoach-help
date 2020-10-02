@@ -29,7 +29,6 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     let posts = result.data.allMarkdownRemark.edges;
-    posts = posts.filter(({node}) => !node.frontmatter.templateKey.includes("index-page"));
     posts.forEach(edge => {
       const id = edge.node.id;
       createPage({

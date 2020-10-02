@@ -1,5 +1,5 @@
 ---
-templateKey: index-page
+templateKey: client-index-page
 title: How can we help you?
 image: /img/account_setting.png
 heading: Great coffee with a conscience

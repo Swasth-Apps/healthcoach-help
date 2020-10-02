@@ -20,7 +20,7 @@ export const IndexPageTemplate = ({
         <div className="full-width-image margin-top-0 home-back">
             <div className="home-head-box">
                 <h1 className="head-title base-text">
-                    How can we help you?
+                    {title}
                 </h1>
                 <Search indices={searchIndices}/>
             </div>
@@ -65,13 +65,18 @@ IndexPageTemplate.propTypes = {
 };
 
 const IndexPage = (props) => {
-    const {features, categories} = props.data;
+    const { frontmatter } = props.data.markdownRemark;
     return (
         <Layout transparent={true} isClient>
             <IndexPageTemplate
                 isClient
-                features={features}
-                categories={categories}
+                image={frontmatter.image}
+                title={frontmatter.title}
+                heading={frontmatter.heading}
+                subheading={frontmatter.subheading}
+                features={frontmatter.features}
+                categories={frontmatter.categories}
+                description={frontmatter.description}
             />
         </Layout>
     )

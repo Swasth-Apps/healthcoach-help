@@ -65,12 +65,17 @@ IndexPageTemplate.propTypes = {
 };
 
 const IndexPage = (props) => {
-    const {features, categories} = props.data;
+    const { frontmatter } = props.data.markdownRemark;
     return (
-        <Layout transparent={true}>
+        <Layout transparent={true} isClient>
             <IndexPageTemplate
-                features={features}
-                categories={categories}
+                image={frontmatter.image}
+                title={frontmatter.title}
+                heading={frontmatter.heading}
+                subheading={frontmatter.subheading}
+                features={frontmatter.features}
+                categories={frontmatter.categories}
+                description={frontmatter.description}
             />
         </Layout>
     )
