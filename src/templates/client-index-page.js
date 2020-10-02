@@ -90,3 +90,52 @@ IndexPage.propTypes = {
 
 export default IndexPage
 
+export const pageQuery = graphql`
+  query ClientIndexPageTemplate {
+    markdownRemark(frontmatter: { templateKey: { eq: "client-index-page" } }) {
+      frontmatter {
+        title
+        image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        heading
+        subheading
+        description
+        features {
+          description
+          heading
+          feature {
+            title
+            slug
+            image {
+              childImageSharp {
+                fluid(maxWidth: 2048, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+        categories {
+          description
+          heading
+          category {
+            title
+            slug
+            image {
+              childImageSharp {
+                fluid(maxWidth: 2048, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`
