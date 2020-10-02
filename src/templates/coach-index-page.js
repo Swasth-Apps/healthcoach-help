@@ -10,12 +10,7 @@ const searchIndices = [
     {name: `swasth`, title: `Pages`, hitComp: `PageHit`},
 ];
 
-export const IndexPageTemplate = ({
-                                      title,
-                                      features,
-                                      categories,
-                                      isClient= false
-                                  }) => (
+export const IndexPageTemplate = ({ title, features, categories, isClient= false }) => (
     <div className="home-top">
         <div className="full-width-image margin-top-0 home-back">
             <div className="home-head-box">
