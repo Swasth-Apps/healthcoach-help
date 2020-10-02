@@ -12,6 +12,8 @@ recentTopics:
   - slug: categories-coach/entries/marketing
     title: Marketing
 ---
+![Invite Clients](/img/add-cohort-invite.png "Invite Clients")
+
 Once you’re done creating a complete program, then it’s time to invite the right set of audience for availing your services.
 
 Also, the app allows you to accept the requests from clients that are willing to get enrolled in your program.
