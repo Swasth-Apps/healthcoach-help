@@ -4,32 +4,32 @@ title: Getting Started for Coaches
 date: 2020-10-01T19:05:15.125Z
 topics:
   - topic:
-      - slug: categories-coach/entries/overview-of-coaching-platform-1
+      - slug: categories/overview-of-coaching-platform-1
         title: Overview of Coaching Platform
-      - slug: categories-coach/entries/setting-up-your-account-1
+      - slug: categories/setting-up-your-account-1
         title: 'Setting up your Account '
-      - slug: categories-coach/entries/become-a-coach-1
+      - slug: categories/become-a-coach-1
         title: Become a Coach
   - topic:
-      - slug: categories-coach/entries/create-program
+      - slug: categories/create-program
         title: Create Program
-      - slug: categories-coach/entries/add-sessions
+      - slug: categories/add-sessions
         title: Add Sessions
-      - slug: categories-coach/entries/add-tasks
+      - slug: categories/add-tasks
         title: Add Tasks
-      - slug: categories-coach/entries/add-cohorts
+      - slug: categories/add-cohorts
         title: Add Cohorts
   - topic:
-      - slug: categories-coach/entries/set-up-your-own-library-1
+      - slug: categories/set-up-your-own-library-1
         title: Set up your Own Library
-      - slug: categories-coach/entries/join-requests
+      - slug: categories/join-requests
         title: Join Requests
-      - slug: categories-coach/entries/co-coaching-sessions
+      - slug: categories/co-coaching-sessions
         title: Co-Coaching Sessions
   - topic:
-      - slug: categories-coach/entries/marketing
+      - slug: categories/marketing
         title: Marketing
-      - slug: categories-coach/entries/support-1
+      - slug: categories/support-1
         title: Support
 ---
 This section is aimed to provide all the necessary details and resources required for digitizing your practice. HealthCoach provides a platform to connect with your clients and successfully deliver your services. Set up a group and individual programs, accept payments, sign contracts - everything needed to run a successful behavioral health coaching practice.

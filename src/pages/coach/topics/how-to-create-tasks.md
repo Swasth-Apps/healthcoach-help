@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: How to create Tasks?
 date: 2020-10-01T18:37:59.798Z
 recentTopics:
-  - slug: features-coach/entries/getting-started-for-coaches
+  - slug: features/getting-started-for-coaches
     title: Getting Started for Coaches
-  - slug: categories-coach/entries/setting-up-your-account-1
+  - slug: categories/setting-up-your-account-1
     title: 'Setting up your Account '
-  - slug: categories-coach/entries/become-a-coach-1
+  - slug: categories/become-a-coach-1
     title: Become a Coach
-  - slug: categories-coach/entries/support-1
+  - slug: categories/support-1
     title: Support
 ---
 Tasks are the set of activities that are prescribed to clients over the course of the program. 

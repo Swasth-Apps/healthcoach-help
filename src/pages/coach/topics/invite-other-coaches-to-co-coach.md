@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: Invite other Coaches to Co-Coach
 date: 2020-10-01T18:58:10.007Z
 recentTopics:
-  - slug: features-coach/entries/getting-started-for-coaches
+  - slug: features/getting-started-for-coaches
     title: Getting Started for Coaches
-  - slug: categories-coach/entries/add-cohorts
+  - slug: categories/add-cohorts
     title: Add Cohorts
-  - slug: topics-coach/entries/invite-join-requests
+  - slug: topics/invite-join-requests
     title: Invite & Join Requests
-  - slug: categories-coach/entries/support-1
+  - slug: categories/support-1
     title: Support
 ---
 ![Add Co-Coaches](/img/add-co-coaches.png "Add Co-Coaches")

@@ -7,7 +7,7 @@ topics:
     topic:
       - slug: topics/access-to-clinician-app
         title: Access to clinician app
-      - slug: invite-clients-to-share-data
+      - slug: topics/invite-clients-to-share-data
         title: Invite clients to share data
 ---
 

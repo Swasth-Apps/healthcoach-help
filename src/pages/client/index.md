@@ -1,60 +1,51 @@
 ---
 templateKey: client-index-page
-title: How can we help you?
-image: /img/account_setting.png
-heading: Great coffee with a conscience
-subheading: >-
-  Swasth helps you grow your practice by providing you with tools that are
-  simple and effective. By reviewing your clients' behavioral health data in
-  real-time you can better tailor your treatment approach. Schedule
-  appointments, assign homework and assessments, secure client chat and
-  teletherapy all via a secure HIPAA-compliant platform.
-description: >-
-  Swasth for Clinicians is an engagement platform for behavioral health
-  practitioners using evidence based treatment modalities.
+title: Ready to transform your life?
 features:
-  heading: Getting Started with Swasth® for Clinicians
-  description: Getting started with Swasth for Clinicians
   feature:
-    - image: /img/account_setting.png
-      slug: getting-started-with-swasth®-for-clinicians
+    - description: Getting Started for Clients
+      image: /img/account_setting.png
+      slug: features/getting-started-for-clients
       title: Quick start
-    - image: /img/video.png
-      slug: videos
+    - description: Start watching our videos
+      image: /img/video.png
+      slug: features/videos
       title: Videos
-    - image: /img/important_topics.png
-      slug: important-topics
+    - description: Check out the Important Topics
+      image: /img/important_topics.png
+      slug: features/important-topics
       title: Important topics
 categories:
   category:
     - image: /img/account-setting.png
-      slug: account-settings
-      title: Account Settings
+      slug: categories/overview-of-coaching-platform
+      title: Coaching Platform
     - image: /img/clinician_tools.png
-      slug: clinician-tools
-      title: Clinician tools
+      slug: categories/setting-up-your-account
+      title: Account Setup
     - image: /img/client-notes.png
-      slug: client-notes-documentation
-      title: Client Notes & Documentation
+      slug: categories/join-program
+      title: Join Program
     - image: /img/schedule.png
-      slug: scheduling-and-calendar
-      title: Scheduling and Calendar
+      slug: categories/dashboard
+      title: View Dashboard
     - image: /img/client-portal.png
-      slug: client-portal
-      title: Client Portal
+      slug: categories/my-calendar
+      title: My Calendar
     - image: /img/billing-clients.png
-      slug: billing-your-clients
-      title: Billing Your Clients
+      slug: categories/my-library
+      title: My Library
     - image: /img/insurance.png
-      slug: insurance-billing
-      title: Insurance Billing
+      slug: categories/send-messages
+      title: Send Messages
     - image: /img/report.png
-      slug: insights-reporting
-      title: Insights and Reporting
+      slug: categories/view-featured
+      title: View Featured
     - image: /img/security.png
-      slug: security
-      title: Security
-  heading: Browse All Topics
-  description: Help topics organized by categories for easy browsing
+      slug: categories/become-a-coach
+      title: Become a Coach
+    - image: /img/setting-up.jpg
+      slug: categories/support
+      title: Support
 ---
 

@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: Add Content in Session
 date: 2020-10-01T18:15:20.689Z
 recentTopics:
-  - slug: topics-coach/entries/what-is-a-session
+  - slug: topics/what-is-a-session
     title: What is a Session?
-  - slug: topics-coach/entries/how-to-create-a-session
+  - slug: topics/how-to-create-a-session
     title: How to create a Session?
-  - slug: topics-coach/entries/how-to-add-a-cohort
+  - slug: topics/how-to-add-a-cohort
     title: How to add a cohort?
-  - slug: topics-coach/entries/invite-other-coaches-to-co-coach
+  - slug: topics/invite-other-coaches-to-co-coach
     title: Invite other Coaches to Co-Coach
 ---
 ![Add Content](/img/add-sessions-2.png "Add Content")

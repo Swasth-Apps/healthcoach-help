@@ -4,7 +4,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import { Link } from 'gatsby';
 import { routes } from './constants';
 
-const FeatureGrid = ({ gridItems,description,isClient }) => (
+const FeatureGrid = ({ gridItems,isClient }) => (
   <div className="columns is-multiline feature-grid ">
     {gridItems.map(item => (
       <div key={item.title} className="column is-4">
@@ -16,7 +16,8 @@ const FeatureGrid = ({ gridItems,description,isClient }) => (
               </div>
               <div className="feature-grid-content-box">
                 <a className="feature-link-text base-text">{item.title}</a>
-                <p className="feature-content-text para-text">{description}</p>
+                  {console.log(item)}
+                <p className="feature-content-text para-text">{item.description}</p>
               </div>
           </div>
         </section>

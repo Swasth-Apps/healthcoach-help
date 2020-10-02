@@ -3,13 +3,13 @@ templateKey: client-topic-page
 title: How to become a Coach?
 date: 2020-10-01T02:11:07.445Z
 recentTopics:
-  - slug: topics/entries/what-is-a-coach
+  - slug: topics/what-is-a-coach
     title: What is a Coach?
-  - slug: topics/entries/direct-group-messages
+  - slug: topics/direct-group-messages
     title: Direct & Group Messages
-  - slug: categories/entries/setting-up-your-account
+  - slug: categories/setting-up-your-account
     title: Setting up your Account
-  - slug: categories/entries/support
+  - slug: categories/support
     title: Support
 ---
 To become a coach, you need to complete the following steps-

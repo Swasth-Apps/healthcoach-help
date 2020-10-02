@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: How to create a Session?
 date: 2020-10-01T18:14:24.494Z
 recentTopics:
-  - slug: topics-coach/entries/what-is-a-session
+  - slug: topics/what-is-a-session
     title: What is a Session?
-  - slug: categories-coach/entries/create-program
+  - slug: categories/create-program
     title: Create Program
-  - slug: topics-coach/entries/how-to-create-tasks
+  - slug: topics/how-to-create-tasks
     title: How to create Tasks?
-  - slug: categories-coach/entries/add-cohorts
+  - slug: categories/add-cohorts
     title: Add Cohorts
 ---
 Here is the step-by-step process for the same-

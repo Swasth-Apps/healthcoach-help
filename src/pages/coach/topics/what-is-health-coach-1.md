@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: What is Health Coach?
 date: 2020-10-01T17:22:19.315Z
 recentTopics:
-  - slug: topics-coach/entries/how-to-create-a-health-coach-account-1
+  - slug: topics/how-to-create-a-health-coach-account-1
     title: How to create a Health Coach account?
-  - slug: topics-coach/entries/how-to-become-a-coach-1
+  - slug: topics/how-to-become-a-coach-1
     title: How to become a Coach?
-  - slug: topics-coach/entries/how-to-create-a-session
+  - slug: topics/how-to-create-a-session
     title: How to create a Session?
-  - slug: topics-coach/entries/invite-other-coaches-to-co-coach
+  - slug: topics/invite-other-coaches-to-co-coach
     title: Invite other Coaches to Co-Coach
 ---
 ![Health Coach](/img/coach-profile.png "Health Coach")

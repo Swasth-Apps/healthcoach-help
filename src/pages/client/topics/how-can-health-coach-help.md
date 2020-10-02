@@ -4,13 +4,13 @@ title: How can Health Coach help?
 date: 2020-10-01T02:24:28.710Z
 topics: []
 recentTopics:
-  - slug: topics/entries/what-is-health-coach
+  - slug: topics/what-is-health-coach
     title: What is Health Coach?
-  - slug: topics/entries/how-health-coach-work
+  - slug: topics/how-health-coach-work
     title: How Health Coach work?
-  - slug: topics/entries/what-is-a-program
+  - slug: topics/what-is-a-program
     title: What is a program?
-  - slug: topics/entries/how-to-join-a-program
+  - slug: topics/how-to-join-a-program
     title: How to Join a Program?
 ---
 Our coaches, via the platform, can help you in dealing with many aspects of your life that affect your overall well being, including-

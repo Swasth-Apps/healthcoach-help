@@ -4,13 +4,13 @@ title: How to add a cohort?
 date: 2020-10-01T18:43:07.478Z
 topics: []
 recentTopics:
-  - slug: features-coach/entries/getting-started-for-coaches
+  - slug: features/getting-started-for-coaches
     title: Getting Started for Coaches
-  - slug: topics-coach/entries/how-to-create-a-health-coach-account-1
+  - slug: topics/how-to-create-a-health-coach-account-1
     title: How to create a Health Coach account?
-  - slug: topics-coach/entries/invite-other-coaches-to-co-coach
+  - slug: topics/invite-other-coaches-to-co-coach
     title: Invite other Coaches to Co-Coach
-  - slug: categories-coach/entries/support-1
+  - slug: categories/support-1
     title: Support
 ---
 ## What is a Cohort?

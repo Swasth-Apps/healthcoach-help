@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: Invite & Join Requests
 date: 2020-10-01T18:48:56.889Z
 recentTopics:
-  - slug: categories-coach/entries/become-a-coach-1
+  - slug: categories/become-a-coach-1
     title: Become a Coach
-  - slug: topics-coach/entries/how-to-set-up-your-own-library
+  - slug: topics/how-to-set-up-your-own-library
     title: How to set up your own library?
-  - slug: categories-coach/entries/add-tasks
+  - slug: categories/add-tasks
     title: Add Tasks
-  - slug: categories-coach/entries/marketing
+  - slug: categories/marketing
     title: Marketing
 ---
 ![Invite Clients](/img/add-cohort-invite.png "Invite Clients")

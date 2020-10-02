@@ -4,25 +4,25 @@ title: Getting Started for Clients
 date: 2020-10-01T02:15:44.169Z
 topics:
   - topic:
-      - slug: categories/entries/overview-of-coaching-platform
+      - slug: categories/overview-of-coaching-platform
         title: Overview of Coaching Platform
-      - slug: categories/entries/setting-up-your-account
+      - slug: categories/setting-up-your-account
         title: Setting up your Account
-      - slug: categories/entries/join-program
+      - slug: categories/join-program
         title: Join Program
-      - slug: categories/entries/dashboard
+      - slug: categories/dashboard
         title: Dashboard
-      - slug: categories/entries/my-calendar
+      - slug: categories/my-calendar
         title: My Calendar
-      - slug: categories/entries/my-library
+      - slug: categories/my-library
         title: My Library
-      - slug: categories/entries/send-messages
+      - slug: categories/send-messages
         title: Send Messages
-      - slug: categories/entries/view-featured
+      - slug: categories/view-featured
         title: View Featured
-      - slug: categories/entries/become-a-coach
+      - slug: categories/become-a-coach
         title: Become a Coach
-      - slug: categories/entries/support
+      - slug: categories/support
         title: Support
 ---
 Are you feeling anxious? Depression sinking deep into skin? Work-life balance going off the beats? ROCD taking a toll on your health? Whatever challenges you’re facing, we have life-changing programs, coaches, and other resources- all connected via a robust platform, Health Coach, to bring your life back on tracks. 

@@ -31,7 +31,6 @@ export const IndexPageTemplate = ({ title, features, categories, isClient }) => 
                                         <Features
                                             isClient={isClient}
                                             gridItems={features.feature}
-                                            description={features.description}
                                         />
                                     </section> : ''}
                                 <section className="section second-section">
@@ -111,6 +110,7 @@ export const pageQuery = graphql`
           feature {
             title
             slug
+            description
             image {
               childImageSharp {
                 fluid(maxWidth: 2048, quality: 100) {

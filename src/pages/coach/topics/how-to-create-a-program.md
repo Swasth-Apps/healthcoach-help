@@ -3,13 +3,13 @@ templateKey: coach-topic-page
 title: How to Create a Program?
 date: 2020-10-01T18:10:09.811Z
 recentTopics:
-  - slug: topics-coach/entries/what-is-a-program-1
+  - slug: topics/what-is-a-program-1
     title: What is a program?
-  - slug: features-coach/entries/getting-started-for-coaches
+  - slug: features/getting-started-for-coaches
     title: Getting Started for Coaches
-  - slug: topics-coach/entries/how-to-create-a-session
+  - slug: topics/how-to-create-a-session
     title: How to create a Session?
-  - slug: categories-coach/entries/support-1
+  - slug: categories/support-1
     title: Support
 ---
 Creating a program is primarily a four-step process, later sections would enlist how to avail all the features to complete a program-
