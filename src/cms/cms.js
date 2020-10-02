@@ -19,7 +19,10 @@ CMS.registerEditorComponent(Note);
 CMS.registerEditorComponent(TipNote);
 CMS.registerEditorComponent(QuickTip);
 
-CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('features', FeaturePagePreview)
-CMS.registerPreviewTemplate('categories', CategoryPagePreview)
-CMS.registerPreviewTemplate('topics', TopicsPagePreview)
+CMS.registerPreviewTemplate('index', IndexPagePreview);
+CMS.registerPreviewTemplate('features', FeaturePagePreview);
+CMS.registerPreviewTemplate('categories', CategoryPagePreview);
+CMS.registerPreviewTemplate('topics', TopicsPagePreview);
+CMS.registerPreviewTemplate('features-coach', FeaturePagePreview);
+CMS.registerPreviewTemplate('categories-coach', CategoryPagePreview);
+CMS.registerPreviewTemplate('topics-coach', TopicsPagePreview);
