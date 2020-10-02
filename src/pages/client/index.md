@@ -1,51 +1,51 @@
 ---
-templateKey: client-index-page
+templateKey: index-page
 title: Ready to transform your life?
 features:
   feature:
     - description: Getting Started for Clients
       image: /img/account_setting.png
-      slug: features/getting-started-for-clients
+      slug: getting-started-for-clients
       title: Quick start
     - description: Start watching our videos
       image: /img/video.png
-      slug: features/videos
+      slug: videos
       title: Videos
     - description: Check out the Important Topics
       image: /img/important_topics.png
-      slug: features/important-topics
+      slug: important-topics
       title: Important topics
 categories:
   category:
     - image: /img/account-setting.png
-      slug: categories/overview-of-coaching-platform
+      slug: categories/entries/overview-of-coaching-platform
       title: Coaching Platform
     - image: /img/clinician_tools.png
-      slug: categories/setting-up-your-account
+      slug: categories/entries/setting-up-your-account
       title: Account Setup
     - image: /img/client-notes.png
-      slug: categories/join-program
+      slug: categories/entries/join-program
       title: Join Program
     - image: /img/schedule.png
-      slug: categories/dashboard
+      slug: categories/entries/dashboard
       title: View Dashboard
     - image: /img/client-portal.png
-      slug: categories/my-calendar
+      slug: categories/entries/my-calendar
       title: My Calendar
     - image: /img/billing-clients.png
-      slug: categories/my-library
+      slug: categories/entries/my-library
       title: My Library
     - image: /img/insurance.png
-      slug: categories/send-messages
+      slug: categories/entries/send-messages
       title: Send Messages
     - image: /img/report.png
-      slug: categories/view-featured
+      slug: categories/entries/view-featured
       title: View Featured
     - image: /img/security.png
-      slug: categories/become-a-coach
+      slug: categories/entries/become-a-coach
       title: Become a Coach
     - image: /img/setting-up.jpg
-      slug: categories/support
+      slug: categories/entries/support
       title: Support
 ---
 
