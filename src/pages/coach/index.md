@@ -30,8 +30,8 @@ categories:
       slug: categories-coach/entries/create-program
       title: Create Program
     - image: /img/client-portal.png
-      slug: client-portal
-      title: Client Portal
+      slug: categories-coach/entries/add-sessions
+      title: Add Sessions
     - image: /img/billing-clients.png
       slug: billing-your-clients
       title: Billing Your Clients
