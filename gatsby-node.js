@@ -36,7 +36,7 @@ exports.createPages = ({ actions, graphql }) => {
         path: edge.node.fields.slug,
         // tags: edge.node.frontmatter.tags,
         component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey.replace("client-","").replace("coach-",""))}.js`
+          `src/templates/${String(edge.node.frontmatter.templateKey.includes("index-page") ? edge.node.frontmatter.templateKey : edge.node.frontmatter.templateKey.replace("client-","").replace("coach-",""))}.js`
         ),
         // additional data can be passed via context
         context: {
