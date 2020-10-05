@@ -12,6 +12,6 @@ recentTopics:
   - slug: topics/invite-other-coaches-to-co-coach
     title: Invite other Coaches to Co-Coach
 ---
-![Add Content](/img/add-sessions-2.png "Add Content")
+![Add Content](/img/add-content-in-sessions.png "Add Content")
 
 You can choose to add learning materials and homework for sessions via the library. The Library is equipped with links, documents, and images that can help in enriching the program. Also, you can add content from the various apps (DBT Coach, CBT Companion, and ACT Coach) integrated into the application.
