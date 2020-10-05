@@ -7,5 +7,7 @@ recentTopics:
     title: How Health Coach work?
   - slug: topics/entries/how-can-health-coach-help
     title: How can Health Coach help?
+  - slug: categories/entries/setting-up-your-account
+    title: Setting up your Account
 ---
 Health Coach is a comprehensive platform designed to ease your engagement with the therapists for improving your overall health. Designed by marrying technology and Evidence-Based Therapies by taking overall health (mental, physical, social, nutrition, etc.), the programs included in Health Coach are delivered by licensed therapists and certified behavioral health coaches.
