@@ -43,7 +43,7 @@ export const FeatureTemplate = ({
             </div>
         </section>
     )
-}
+};
 
 FeatureTemplate.propTypes = {
     helmet: PropTypes.object,
