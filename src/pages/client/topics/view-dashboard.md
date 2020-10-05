@@ -7,6 +7,8 @@ date: 2020-10-01T01:17:47.871Z
 
 ## 1. Search Bar
 
+![Search Bar](/img/dashboard-search-program.jpg "Search Bar")
+
 The search bar present at the top right corner of the screen helps in searching for    coaches and programs. You can look for Coaches via their names, tags, and practices. The mentor button also helps in filtering mentors amongst coaches. 
 
 ## 2. Notifications
