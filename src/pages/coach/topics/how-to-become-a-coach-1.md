@@ -19,4 +19,6 @@ To become a coach, you need to complete the following steps-
 * Select the category of your skills, such as DBT, CBT, ACT, Nutrition, Mindfulness, Substance Abuse, etc.
 * You can also choose to change the background for clients to identify you better. 
 
+![Become a Coach](/img/become-a-coach.jpg "Become a Coach")
+
 Once covered all the above steps, press done, and your request to become a coach would be sent to the admin.
