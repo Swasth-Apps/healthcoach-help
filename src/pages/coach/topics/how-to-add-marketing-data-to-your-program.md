@@ -11,7 +11,7 @@ For adding marketing data to a specific program,
 * Go to the marketing tab, as shown in the image.
 * Fill the details of individual sections- Video URL, Description, What you will learn, and Coach Info.
 
-We have already discussed these individual sections in the previous chapter; however, in the chapter, we are going to dive into details and support the guide with some examples.
+We have already discussed these individual sections in the previous chapter; however, in the chapter, we are going to dive into details and support the guide with some examples.
 
 **1. Video URL**
 
@@ -23,11 +23,11 @@ For instance, your Program name is “DBT Skills Training.” Then the URL can b
 
 The description is used for stating the objective of a program in one or two lines. Going by the above example, if your program is “DBT Skills Training”, then description can be something like-
 
-“Online learning makes it easy and affordable to begin implementing DBT (Dialectical Behavior Therapy) skills in your life without waiting.”
+“Online learning makes it easy and affordable to begin implementing DBT (Dialectical Behavior Therapy) skills in your life without waiting.”
 
 3. **What you'll learn**
 
-“What you will learn” section lists all the concepts that are going to be taught to clients. Here, the coach needs to mention the exclusive learnings that a program has to offer apart from the regular ones to attract the client better.  
+“What you will learn” section lists all the concepts that are going to be taught to clients. Here, the coach needs to mention the exclusive learnings that a program has to offer apart from the regular ones to attract the client better.  
 
 * Create greater self-awareness
 * Increase your ability to regulate your emotions
@@ -41,11 +41,7 @@ The description is used for stating the objective of a program in one or two lin
 
 Coach Info section where the coach log details about their profession, interest, hobbies, and education, in addition to a simple bio. 
 
-To understand how to can you create interactive coach info, 
-
-\-are some of the objectives that can be mentioned in the “What you’ll learn?” section.
-
-**Example-**
+To understand how to can you create interactive coach info, check out this example-
 
 **Raylene**
 
