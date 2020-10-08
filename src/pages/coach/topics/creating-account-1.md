@@ -16,7 +16,7 @@ With our application, you can do the following-
 * Assign lessons and exercises to clients as homework, and view their progress
 * Appoint a Co-Coach to help you run a successful clinician practice. 
 
-Below you’ll see the recommended walkthrough for a new HealthCoach user (coach) experience, right from simple signup to a fully-fledged account.
+Below you’ll see the recommended walkthrough for a new HealthCoach user (coach) experience, right from simple signup to a fully-fledged account.
 
 ## How to create a new account?
 
@@ -32,6 +32,6 @@ Once you’ve inputted these details, click on “signup”. After that, you wou
 
 You can quickly sign up for the Health Coach by following the steps mentioned above. Once completed the process, save the registered email id and password for future logins.
 
-## Forgot your password?
+## Forgot your password?
 
 If you ever forget your password, then don’t worry! We have your back. On the bottom login screen, there is a forgot your password link which can assist you in the same. Click on “forgot your password” and enter your registered email id. The link to the new password will be sent on your email account following which you can retrieve your password.
