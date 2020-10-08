@@ -7,11 +7,26 @@ topics:
     topic:
       - slug: categories/setting-up-an-account
         title: Setting up an Account
-  - heading: Program
+  - heading: Join a Program
     topic:
       - slug: categories/join-a-program
-        title: Join a Program
-  - {}
+        title: Program
+  - heading: Send Messages
+    topic:
+      - slug: categories/messages
+        title: Messages
+  - heading: User-friendly Calendar
+    topic:
+      - slug: categories/calendar
+        title: Calendar
+  - heading: Comprehensive Dashboard
+    topic:
+      - slug: categories/dashboard
+        title: Dashboard
+  - heading: Need Help?
+    topic:
+      - slug: categories/support
+        title: Support
 ---
 Are you feeling anxious? Depression sinking deep into skin? Work-life balance going off the beats? ROCD taking a toll on your health? Whatever challenges you’re facing, we have life-changing programs, coaches, and other resources- all connected via a robust platform, Health Coach, to bring your life back on tracks. 
 
