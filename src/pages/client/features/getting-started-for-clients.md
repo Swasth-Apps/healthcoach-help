@@ -2,6 +2,16 @@
 templateKey: client-feature-page
 title: Getting Started for Clients
 date: 2020-10-08T13:58:53.492Z
+topics:
+  - heading: Account Setup
+    topic:
+      - slug: categories/setting-up-an-account
+        title: Setting up an Account
+  - heading: Program
+    topic:
+      - slug: categories/join-a-program
+        title: Join a Program
+  - {}
 ---
 Are you feeling anxious? Depression sinking deep into skin? Work-life balance going off the beats? ROCD taking a toll on your health? Whatever challenges you’re facing, we have life-changing programs, coaches, and other resources- all connected via a robust platform, Health Coach, to bring your life back on tracks. 
 
