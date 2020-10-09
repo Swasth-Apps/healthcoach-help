@@ -12,13 +12,26 @@ recentTopics:
   - slug: topics/my-library
     title: My Library
 ---
-Direct Messages are for one-to-one conversations between coaches and clients. A coach/client can initiate dialogue with the other party for discussing the progress of a program or related things. Clients can share their queries or any obstacle they are facing on an individual level. Direct Messages offer a private channel between the client and coach where they can discuss the client’s issues. Also, when something has not been covered in a session or any other information that the client wishes to seek, can be shared via this channel.
+Direct Messages are for one-to-one conversations between coaches and clients. 
+
+A coach/client can initiate dialogue with the other party for discussing the progress of a program or related things. Clients can share their queries or any obstacle they are facing on an individual level. 
+
+Direct Messages offer a private channel between the client and coach where they can discuss the client’s issues. Also, when something has not been covered in a session or any other information that the client wishes to seek, can be shared via this channel.
 
 To send direct messages-
 
 * Select on the Messages tab present at the bottom left.
+
+
+
 * Click on the Direct Message as shown in the screen
+
+
+
 * Select the user you want to message.
+
+
+
 * Hit on the chat tab, and interact freely.
 
 ![Messages](/img/messages-i.png "Messages")
