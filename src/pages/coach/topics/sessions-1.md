@@ -2,6 +2,9 @@
 templateKey: coach-topic-page
 title: Sessions
 date: 2020-10-08T15:30:09.957Z
+recentTopics:
+  - slug: topics-coach/invite-users
+    title: Invite Users-
 ---
 ## What is a session?
 
