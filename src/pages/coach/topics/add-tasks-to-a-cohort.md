@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: 'Add Tasks to a Cohort '
 date: 2020-10-08T15:44:07.266Z
 recentTopics:
-  - slug: topics-coach/what-is-a-cohort
+  - slug: topics/what-is-a-cohort
     title: 'What is a Cohort? '
-  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+  - slug: topics/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
-  - slug: topics-coach/create-program
+  - slug: topics/create-program
     title: How to Create a Program?
-  - slug: topics-coach/edit-program
+  - slug: topics/edit-program
     title: 'Edit Program '
-  - slug: topics-coach/how-to-add-marketing-data-to-your-program
+  - slug: topics/how-to-add-marketing-data-to-your-program
     title: How to add Marketing data to your program?
 ---
 Tasks are the set of activities that are prescribed to clients throughout the program. After a session is taken, coaches assign a set of activities based on individual sessions, like logging your emotions, practicing meditation, etc. regularly. 
