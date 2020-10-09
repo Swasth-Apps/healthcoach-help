@@ -5,7 +5,7 @@ date: 2020-10-08T15:33:41.647Z
 recentTopics:
   - slug: topics-coach/create-program
     title: Create Program
-  - slug: topics-coach/edit-program
+  - slug: topics/edit-program
     title: ' Edit Program '
   - slug: topics-coach/sessions-1
     title: 'Add Sessions '
