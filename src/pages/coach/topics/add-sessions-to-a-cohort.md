@@ -2,6 +2,17 @@
 templateKey: coach-topic-page
 title: Add sessions to a Cohort
 date: 2020-10-08T15:42:07.441Z
+recentTopics:
+  - slug: topics-coach/sessions-1
+    title: 'What is a session? '
+  - slug: topics-coach/what-is-a-cohort
+    title: 'What is a Cohort? '
+  - slug: topics-coach/add-tasks-to-a-cohort
+    title: Add tasks to a cohort
+  - slug: topics-coach/tasks
+    title: 'What is a task? '
+  - slug: topics-coach/invite-users-to-join-a-cohort
+    title: Invite Users to join a cohort
 ---
 In the past chapters, we have covered how to add sessions for a program in detail. However, the app also supports creating sessions for individual cohorts. However, the most important thing to understand here is that the session created for this cohort will not be reflected in other cohorts of the same program. That implies, these sessions are specific to the cohort and are not generalized. 
 
