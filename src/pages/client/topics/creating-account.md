@@ -2,6 +2,15 @@
 templateKey: client-topic-page
 title: Creating Account
 date: 2020-10-08T14:00:37.142Z
+recentTopics:
+  - slug: topics/my-library
+    title: My Library
+  - slug: topics/upcoming-sessions
+    title: Upcoming sessions
+  - slug: topics/enrolled-programs
+    title: Notifications
+  - slug: topics/search-programs
+    title: Search Programs
 ---
 Health Coach is a coaching platform designed to ease your engagement with the therapists for improving your overall health (mental, physical, social, nutrition, etc.) 
 
