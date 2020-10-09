@@ -27,7 +27,7 @@ The description is used for stating the objective of a program in one or two lin
 
 “Online learning makes it easy and affordable to begin implementing DBT (Dialectical Behavior Therapy) skills in your life without waiting.”
 
-3. **What you'll learn**
+**3. What you'll learn**
 
 “What you will learn” section lists all the concepts that are going to be taught to clients. Here, the coach needs to mention the exclusive learnings that a program has to offer apart from the regular ones to attract the client better.  
 
