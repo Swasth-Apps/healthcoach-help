@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: My Library
 date: 2020-10-08T15:25:36.934Z
 recentTopics:
-  - slug: topics-coach/invite-co-coaches
+  - slug: topics/invite-co-coaches
     title: Invite Co-Coaches
-  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+  - slug: topics/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
-  - slug: topics-coach/add-sessions-to-a-cohort
+  - slug: topics/add-sessions-to-a-cohort
     title: Add sessions to a cohort
-  - slug: topics-coach/add-tasks-to-a-cohort
+  - slug: topics/add-tasks-to-a-cohort
     title: ' Add tasks to a cohort'
-  - slug: topics-coach/what-is-marketing-data
+  - slug: topics/what-is-marketing-data
     title: What is Marketing Data?
 ---
 ## What is My Library?
