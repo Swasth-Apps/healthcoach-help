@@ -16,7 +16,9 @@ recentTopics:
 ---
 ## What is a session?
 
-Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a period of time. Depending upon the flexibility of both the parties, sessions can be either in-office or video. These sessions make up for the primary chunk of the program. 
+Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a period of time.
+
+Depending upon the flexibility of both the parties, sessions can be either in-office or video. These sessions make up for the primary chunk of the program. 
 
 ![Sessions](/img/sessions-i.png "Sessions")
 
@@ -24,7 +26,9 @@ Sessions are the set of interaction modules between the client and coach accompa
 
 Sessions are primarily of two types- In-office and Video. Going by their titles, In-office sessions are conducted in the coach’s office, whereas video sessions take place with the help of video calls. 
 
-When a session is marked video, then both the coach and client see a reminder 15 minutes before the session is going to begin. However, both the kinds of scheduled sessions show up in the calendar as we discussed before. 
+When a session is marked video, then both the coach and client see a reminder 15 minutes before the session is going to begin. 
+
+However, both the kinds of scheduled sessions show up in the calendar as we discussed before. 
 
 ![Sessions](/img/sessions-app-content-i.png "Sessions")
 
@@ -39,10 +43,25 @@ To add a session in a program, go to the content tab, click on the “Add sessio
 There you will have to add the following details as mentioned below-
 
 * **Module Name**- Module is a pack of sessions that are going to occur on a regular interval, for instance, Meditation. 
+
+
+
 * **Module Image**- The image that is going to be used as a background for the module.
+
+
+
 * **Repeats**- it is the frequency of session repetition. In total, four types of repeat frequencies are imbibed in the app- none, daily, weekly, monthly. 
+
+
+
 * **Prefix Name**- This is the name of the individual session that is part of a module. Take, for example, your module name is Meditation, repeats are weekly, and prefix name is depression. Then the final prefix name would be depression for week 1, depression for week2, etc. However, later in the journey, this prefix name can be edited with the “edit session.”
+
+
+
 * **No. of days from start**- This number indicates the day from the start of the program by the client when he/she would be asked to do this session. For instance, if 3 is the day from the beginning, and the client enrolls in the program on October 3, 2020, then October 5 would be the first day from the start when this session is going to begin. 
+
+
+
 * **Description**- Add a brief description of the session; however, this section is entirely optional.
 
 ![Sessions](/img/sessions-libary-content-i.png "Sessions")
