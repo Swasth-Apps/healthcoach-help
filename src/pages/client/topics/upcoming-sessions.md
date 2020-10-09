@@ -12,10 +12,14 @@ recentTopics:
   - slug: topics/creating-account
     title: Creating Account
 ---
-Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a while. These sessions can be either in-office or video as per the flexibility of both parties. 
+Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a while. 
+
+These sessions can be either in-office or video as per the flexibility of both parties. 
 
 ![Types of Sessions](/img/session-types-i.png "Types of Sessions")
 
 A program involves sessions from time to time. You can view the upcoming session- day, date, and time on the dashboard. This way, you can better plan your days and never miss any activity. 
 
-The alternate way to check all the upcoming sessions is via My Calendar, present at the bottom of the screen.  The calendar will enlist all the activities that are scheduled for the day. Also, with the left and right scrolling arrow, you can view the past and future sessions, respectively.
+The alternate way to check all the upcoming sessions is via My Calendar, present at the bottom of the screen.  
+
+The calendar will enlist all the activities that are scheduled for the day. Also, with the left and right scrolling arrow, you can view the past and future sessions, respectively.
