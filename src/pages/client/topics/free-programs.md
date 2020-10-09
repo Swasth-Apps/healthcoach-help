@@ -20,13 +20,17 @@ To join an unpaid program, enter the relevant tag in the search bar and check ou
 
 The admin sets the list of featured coaches and programs based on their experience, client reviews, successfully completed programs, etc. 
 
-So, as to search them, go to my profile and click on the star icon present at the top right corner, as shown in the above image. There you will have a list of featured coaches and programs.
+So, as to search them, go to my profile and click on the star icon present at the top right corner, as shown in the above image. 
+
+There you will have a list of featured coaches and programs.
 
 ![Featured Programs](/img/featured-coaches-programs-i.png "Featured Programs")
 
 The programs that aren’t listed paid can be filtered for joining. 
 
-Programs are equipped with many cohorts; after selecting the program, you need to choose the suitable cohort for joining the program from all the cohorts available. Select the cohort, and you will be enrolled in the program. 
+Programs are equipped with many cohorts; after selecting the program, you need to choose the suitable cohort for joining the program from all the cohorts available. 
+
+Select the cohort, and you will be enrolled in the program. 
 
 ![Select Cohort](/img/select-cohort-i.png "Select Cohort")
 
