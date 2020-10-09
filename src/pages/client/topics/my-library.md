@@ -2,6 +2,13 @@
 templateKey: client-topic-page
 title: My Library
 date: 2020-10-08T14:02:40.091Z
+recentTopics:
+  - slug: topics/creating-account
+    title: 'Creating Account '
+  - slug: topics/direct-messages
+    title: Send Direct Messages
+  - slug: topics/scheduled-tasks
+    title: 'Scheduled Tasks '
 ---
 ## What is My Library?
 
