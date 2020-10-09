@@ -13,7 +13,7 @@ recentTopics:
     title: Add tasks to a cohort
   - slug: topics/what-is-a-cohort
     title: 'What is a Cohort? '
-  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+  - slug: topics/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
 ---
 ## What is a task?
