@@ -68,21 +68,36 @@ There you will have to add the following details as mentioned below-
 
 ## Add Content in Session
 
-You can choose to add learning materials and homework for sessions via the library. The library is equipped with links, documents, and images that can help in enriching the program. Also, you can add content from the various apps (DBT Coach, CBT Companion, and ACT Coach) integrated into the application. These apps provide different kinds of content, such as exercises, meditation, lessons, and practice ideas for complementing your program. 
+You can choose to add learning materials and homework for sessions via the library. The library is equipped with links, documents, and images that can help in enriching the program. 
+
+Also, you can add content from the various apps (DBT Coach, CBT Companion, and ACT Coach) integrated into the application. 
+
+These apps provide different kinds of content, such as exercises, meditation, lessons, and practice ideas for complementing your program. 
 
 ![Sessions](/img/session-content-lessons-i.png "Sessions")
 
 ## Edit Session
 
-Edit session is an in-app functionality availing which the coach can edit the details of a session after the creation of the same. Whether you want to change the name of a session, or some other piece- edit sessions come handy. 
+Edit session is an in-app functionality availing which the coach can edit the details of a session after the creation of the same. 
+
+Whether you want to change the name of a session, or some other piece- edit sessions come handy. 
 
 ![](/img/edit-session-i.png)
 
 ## How to edit a session?
 
 * Click on the required session which you want to edit.
+
+
+
 * Hit the three dots on the top right corner, also known as settings.
+
+
+
 * The app will present you with two choices- edit and delete. 
+
+
+
 * On clicking the edit button, you will land on the edit sessions screen, where you can edit the name of the session, day from the start, linked content like lessons, exercises, and other such details easily.
 
 ![Sessions](/img/session-content-exercise-i.png "Sessions")
