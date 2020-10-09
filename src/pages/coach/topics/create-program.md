@@ -5,6 +5,14 @@ date: 2020-10-08T15:27:29.069Z
 recentTopics:
   - slug: topics-coach/edit-program
     title: ' Edit Program'
+  - slug: topics-coach/sessions-1
+    title: Add Sessions
+  - slug: topics-coach/tasks
+    title: Add Tasks
+  - slug: topics-coach/invite-users
+    title: Invite Users
+  - slug: topics-coach/invite-co-coaches
+    title: Invite Co-Coaches
 ---
 ## What is a program?
 
