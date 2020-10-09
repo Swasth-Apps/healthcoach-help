@@ -5,7 +5,7 @@ date: 2020-10-08T15:39:59.338Z
 recentTopics:
   - slug: topics/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
-  - slug: topics-coach/add-sessions-to-a-cohort
+  - slug: topics/add-sessions-to-a-cohort
     title: Add sessions to a cohort
   - slug: topics-coach/add-tasks-to-a-cohort
     title: Add tasks to a cohort
