@@ -17,11 +17,8 @@ features:
       title: Important topics
 categories:
   category:
-    - image: /img/account-setting.png
-      slug: categories/overview-of-coaching-platform-1
-      title: Coaching Platform
     - image: /img/clinician_tools.png
-      slug: categories/setting-up-your-account-1
+      slug: categories-coach/setting-up-an-account-1
       title: Account Setup
     - image: /img/client-notes.png
       slug: categories/become-a-coach-1
