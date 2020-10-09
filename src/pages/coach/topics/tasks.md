@@ -11,7 +11,7 @@ recentTopics:
     title: 'Add Sessions '
   - slug: topics/add-tasks-to-a-cohort
     title: Add tasks to a cohort
-  - slug: topics-coach/what-is-a-cohort
+  - slug: topics/what-is-a-cohort
     title: 'What is a Cohort? '
   - slug: topics-coach/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
