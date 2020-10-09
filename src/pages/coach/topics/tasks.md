@@ -3,7 +3,7 @@ templateKey: coach-topic-page
 title: Tasks
 date: 2020-10-08T15:33:41.647Z
 recentTopics:
-  - slug: topics-coach/create-program
+  - slug: topics/create-program
     title: Create Program
   - slug: topics/edit-program
     title: ' Edit Program '

@@ -5,7 +5,7 @@ features:
   feature:
     - description: Getting Started for Coaches
       image: /img/account_setting.png
-      slug: features-coach/getting-started-for-coaches-1
+      slug: features/getting-started-for-coaches-1
       title: Quick start
     - description: Start watching our videos
       image: /img/video.png
@@ -18,16 +18,16 @@ features:
 categories:
   category:
     - image: /img/clinician_tools.png
-      slug: categories-coach/setting-up-an-account-1
+      slug: categories/setting-up-an-account-1
       title: Account Setup
     - image: /img/schedule.png
-      slug: 'categories-coach/program '
+      slug: 'categories/program '
       title: Create Program
     - image: /img/insurance.png
-      slug: categories-coach/cohort
+      slug: categories/cohort
       title: Add Cohorts
     - image: /img/account-setting.png
-      slug: categories-coach/marketing
+      slug: categories/marketing
       title: Marketing
 ---
 
