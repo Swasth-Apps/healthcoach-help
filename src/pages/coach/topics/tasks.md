@@ -3,15 +3,17 @@ templateKey: coach-topic-page
 title: Tasks
 date: 2020-10-08T15:33:41.647Z
 ---
-## What is a task? 
+## What is a task?
 
 Tasks are the set of activities that are prescribed to clients throughout the program. After a session is taken, coaches assign a set of activities based on individual sessions, like logging your emotions, practicing meditation, etc. regularly. These activities are designed to help in a positive shift in the client’s behavior. Without covering these activities, a client can’t complete the program successfully. Coaches can add tasks or use some predefined tasks available in the application. These predefined tasks are taken from the three integrated apps- CBT Companion, ACT Coach, and DBT Coach. The apps are equipped with a series of lessons, exercises, and homework assignments for enriching your program’s value. 
 
-## Types of tasks 
+## Types of tasks
 
 Health Coach supports three types of tasks- Free Form, Diary Entry, and Breathing Exercise.
 
 As a coach, you will have to mention the task type during the creation of tasks. This section is intended to walk you through all these types of tasks for completing your coaching journey successfully.
+
+![](/img/type-of-tasks-i.png)
 
 **1. Diary Entry**
 
@@ -26,19 +28,20 @@ To complete this task,
 
 **2. Breathing Exercise**
 
-This is a set of breathing exercises that the coach can prescribe their clients to perform on a specific time of the day at regular intervals. The integrated applications come with a separate list of breathing exercises which a coach can avail to make the most out of the program. 
+This is a set of breathing exercises that the coach can prescribe their clients to perform on a specific time of the day at regular intervals. The integrated applications come with a separate list of breathing exercises which a coach can avail to make the most out of the program. 
 
 **3. Free Form**
 
 There are hundreds of activities that a user may perform to keep themselves happy. Music, painting, jogging, yoga, reading, cooking, cleaning, and the list is endless. Not all of these activities can be categorized, and this is where Free Form comes into role. 
 
-Free form caters to all the possible activities that a client performs to sustain their calm.  As a coach, when you add the task type to free form- the client will list out the tasks they performed along with the pictures. For instance, he/she may have gone for a morning walk; then, they will have to add a little brief about the task. The client can also complement the information with a snap of the place they visited during the walk for coaches to review.
+Free form caters to all the possible activities that a client performs to sustain their calm. 
+ As a coach, when you add the task type to free form- the client will list out the tasks they performed along with the pictures. For instance, he/she may have gone for a morning walk; then, they will have to add a little brief about the task. The client can also complement the information with a snap of the place they visited during the walk for coaches to review.
 
 ## Add tasks to a Program
 
 In the above sections, we discussed the basics of tasks. Now, in this chapter, we are going to walk you through the step-by-step guide of “how to add a task?” 
 
-To add a session in a program, go to the content tab, click on the “Add Tasks,” the app would redirect you to add Tasks page as shown in the image.
+To add a session in a program, go to the content tab, click on the “Add Tasks,” the app would redirect you to add Tasks page as shown in the image.
 
 There you will have to add the following details as mentioned below-
 
