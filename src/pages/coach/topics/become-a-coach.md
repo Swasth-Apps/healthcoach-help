@@ -3,20 +3,22 @@ templateKey: coach-topic-page
 title: 'Become a Coach '
 date: 2020-10-08T15:19:07.785Z
 recentTopics:
-  - slug: topics-coach/creating-account-1
+  - slug: topics/creating-account-1
     title: Creating Account
-  - slug: topics-coach/become-a-mentor
+  - slug: topics/become-a-mentor
     title: Become a Mentor
-  - slug: topics-coach/setup-up-payment
+  - slug: topics/setup-up-payment
     title: Setup up Payment
-  - slug: topics-coach/my-library-1
+  - slug: topics/my-library-1
     title: My Library
-  - slug: topics-coach/sessions-1
+  - slug: topics/sessions-1
     title: Sessions
 ---
 ## What is a Coach?
 
-Coach is an individual that is responsible for delivering sessions and tasks based on their skillset. A coach creates a program, adds tasks, adds cohorts, sets up their own workspace for bringing evidence-based therapies to their clients. Integrated with three popular apps- DBT Coach, CBT Companion, and ACT Coach; Health Coach brings all the resources needed to run a successful clinician practice. 
+Coach is an individual that is responsible for delivering sessions and tasks based on their skillset. A coach creates a program, adds tasks, adds cohorts, sets up their own workspace for bringing evidence-based therapies to their clients. 
+
+Integrated with three popular apps- DBT Coach, CBT Companion, and ACT Coach; Health Coach brings all the resources needed to run a successful clinician practice. 
 
 ![My Practice](/img/my-practice-i.png "My Practice")
 
