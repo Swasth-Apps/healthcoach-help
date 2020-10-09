@@ -2,6 +2,19 @@
 templateKey: coach-topic-page
 title: Tasks
 date: 2020-10-08T15:33:41.647Z
+recentTopics:
+  - slug: topics-coach/create-program
+    title: Create Program
+  - slug: topics-coach/edit-program
+    title: ' Edit Program '
+  - slug: topics-coach/sessions-1
+    title: 'Add Sessions '
+  - slug: topics-coach/add-tasks-to-a-cohort
+    title: Add tasks to a cohort
+  - slug: topics-coach/what-is-a-cohort
+    title: 'What is a Cohort? '
+  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+    title: How to add a Cohort to a Program?
 ---
 ## What is a task?
 
