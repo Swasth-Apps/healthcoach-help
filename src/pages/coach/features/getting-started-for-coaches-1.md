@@ -14,7 +14,7 @@ topics:
   - heading: 'Cohort '
     topic:
       - slug: categories-coach/cohort
-        title: Cohorts Management
+        title: Cohort Management
   - heading: Marketing
     topic:
       - slug: categories-coach/entries/marketing
