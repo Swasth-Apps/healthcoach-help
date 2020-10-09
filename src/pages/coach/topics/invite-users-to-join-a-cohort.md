@@ -2,6 +2,11 @@
 templateKey: coach-topic-page
 title: Invite Users to join a cohort
 date: 2020-10-08T15:45:59.797Z
+recentTopics:
+  - slug: topics-coach/become-a-coach
+    title: Become a Coach
+  - slug: topics-coach/what-is-a-cohort
+    title: 'What is a Cohort? '
 ---
 As discussed in previous chapters, there are two ways of inviting users to join your program- Inviting users, and by accepting the requests sent by clients. In this section, we are going to discuss how to invite users to join a specific cohort. 
 
