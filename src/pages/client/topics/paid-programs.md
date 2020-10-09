@@ -2,6 +2,11 @@
 templateKey: client-topic-page
 title: Paid Programs
 date: 2020-10-08T14:05:35.590Z
+recentTopics:
+  - slug: topics/free-programs
+    title: Free Programs
+  - slug: topics/search-programs
+    title: Search Programs
 ---
 You can look up for different programs by adding the relevant tags in the search bar offered by coaches.  Also, there are some programs that are marked featured. 
 
