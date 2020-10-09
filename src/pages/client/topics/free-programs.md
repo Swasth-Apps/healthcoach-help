@@ -2,6 +2,15 @@
 templateKey: client-topic-page
 title: Free Programs
 date: 2020-10-08T14:04:25.127Z
+recentTopics:
+  - slug: topics/paid-programs
+    title: Paid Programs
+  - slug: topics/creating-account
+    title: 'Creating Account '
+  - slug: topics/my-library
+    title: How to add content in the Library?
+  - slug: topics/upcoming-sessions
+    title: View Upcoming sessions
 ---
 A coach can create free or paid programs as per their choice. To join an unpaid program, enter the relevant tag in the search bar and check out all the related programs offered by different coaches. Also, there are some programs that are marked featured. 
 
