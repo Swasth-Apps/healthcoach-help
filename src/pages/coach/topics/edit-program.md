@@ -1,0 +1,17 @@
+---
+templateKey: coach-topic-page
+title: 'Edit Program '
+date: 2020-10-09T05:46:31.019Z
+---
+Edit program is an in-app functionality availing which the coach can edit the details of a program after creating the same. Whether you want to change the name of a program or some other piece- the "edit program" comes in handy.
+
+To edit a program, 
+
+* Click on the settings (three dots shown on the top right corner) of the Program. 
+* The app will present you with three options- Add Co-Coach, Edit Program, and Delete Program.
+* Click on the "edit program" button, and the app will redirect you to the "Edit Program" page. 
+* The section has four stages- Name, Details, Payment, and Confirm. 
+
+In the first stage, you can edit the name of the Program, followed by a brief description of the same. 
+
+If you've opted for a group session in the second stage, you can edit the session size (clients), duration of sessions, additional documents, and tags. You can also choose to deliver individual sessions. In the third stage, you can edit the payable amount for the Program, or you can choose to offer it for free. The last step is confirmation, where all the details were edited in previous stages.
