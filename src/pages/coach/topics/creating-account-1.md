@@ -2,6 +2,13 @@
 templateKey: coach-topic-page
 title: Creating Account
 date: 2020-10-08T15:15:57.062Z
+recentTopics:
+  - slug: topics-coach/become-a-coach
+    title: Become a Coach
+  - slug: topics-coach/become-a-mentor
+    title: Become a Mentor
+  - slug: topics-coach/practice-info
+    title: Practice Info
 ---
 Health Coach is a coaching platform designed to bring evidence-based therapies to your clients. Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
 
