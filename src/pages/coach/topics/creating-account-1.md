@@ -11,8 +11,8 @@ recentTopics:
     title: Practice Info
   - slug: topics-coach/create-program
     title: Create Program
-  - slug: topics-coach/how-to-add-a-cohort-to-a-program
-    title: How to add a Cohort to a Program?-
+  - slug: topics-coach/entries/what-is-marketing-data
+    title: What is Marketing Data?
 ---
 Health Coach is a coaching platform designed to bring evidence-based therapies to your clients. Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
 
