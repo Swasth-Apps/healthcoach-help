@@ -3,7 +3,7 @@ templateKey: coach-topic-page
 title: 'What is a Cohort? '
 date: 2020-10-08T15:39:59.338Z
 recentTopics:
-  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+  - slug: topics/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
   - slug: topics-coach/add-sessions-to-a-cohort
     title: Add sessions to a cohort
