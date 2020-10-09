@@ -9,6 +9,8 @@ recentTopics:
     title: Send Direct Messages
   - slug: topics/scheduled-tasks
     title: 'Scheduled Tasks '
+  - slug: topics/upcoming-sessions
+    title: Upcoming sessions
 ---
 ## What is My Library?
 
