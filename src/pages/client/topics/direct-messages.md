@@ -12,6 +12,8 @@ To send direct messages-
 * Select the user you want to message.
 * Hit on the chat tab, and interact freely.
 
+![Messages](/img/messages-i.png "Messages")
+
 The app also supports sharing images and videos. You can click on the “+” (add icon) present on the bottom left of the screen. Upload the photo or video you wish to share with the second party. 
 
 Many times you may have to search a message or group, but aren’t unable to because of the massive amount of data. Hence, to simplify your search, a search bar is placed on the top, as shown in the image. Enter the group/message you would like to search, and the app will present the filtered data based on your search query.
