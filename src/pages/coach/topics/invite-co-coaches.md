@@ -2,6 +2,17 @@
 templateKey: coach-topic-page
 title: Invite Co-Coaches
 date: 2020-10-08T15:38:34.567Z
+recentTopics:
+  - slug: topics-coach/become-a-coach
+    title: Become a Coach
+  - slug: topics-coach/become-a-mentor
+    title: Become a Mentor
+  - slug: topics-coach/invite-users
+    title: Invite Users
+  - slug: topics-coach/invite-users-to-join-a-cohort
+    title: Invite Users to join a cohort
+  - slug: topics-coach/how-to-add-marketing-data-to-your-program
+    title: How to add Marketing data to your program?
 ---
 Co-Coaching is a feature that allows the coaches to invite other coaches to assist them in running the Program. The co-coach can be invited for the following reasons-
 
