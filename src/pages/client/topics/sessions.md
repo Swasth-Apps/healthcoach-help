@@ -2,15 +2,7 @@
 templateKey: client-topic-page
 title: 'Sessions '
 date: 2020-10-08T14:09:21.713Z
-recentTopics:
-  - slug: topics-coach/become-a-mentor
-    title: Become a Mentor
-  - slug: topics-coach/tasks
-    title: Add tasks to a Program
-  - slug: topics-coach/what-is-a-cohort
-    title: 'What is a Cohort? '
-  - slug: topics-coach/add-sessions-to-a-cohort
-    title: Add sessions to a cohort
+recentTopics: []
 ---
 Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a period of time. These sessions can be either in-office or video as per the flexibility of both parties. 
 
