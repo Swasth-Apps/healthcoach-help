@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: 'Create Program '
 date: 2020-10-08T15:27:29.069Z
 recentTopics:
-  - slug: topics-coach/edit-program
+  - slug: topics/edit-program
     title: ' Edit Program'
-  - slug: topics-coach/sessions-1
+  - slug: topics/sessions-1
     title: Add Sessions
-  - slug: topics-coach/tasks
+  - slug: topics/tasks
     title: Add Tasks
-  - slug: topics-coach/invite-users
+  - slug: topics/invite-users
     title: Invite Users
-  - slug: topics-coach/invite-co-coaches
+  - slug: topics/invite-co-coaches
     title: Invite Co-Coaches
 ---
 ## What is a program?
