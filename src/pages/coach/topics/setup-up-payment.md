@@ -23,7 +23,13 @@ In this chapter, we are going to walk you through the steps for adding your paym
 ## How to add Payment Details?
 
 * Go to your profile ( the rightmost icon available on the bottom of the screen).
+
+
+
 * Click on the payment details card, from there you will be redirected to the payments page (Connect Stripe).
+
+
+
 * Select your entity type- Company, Non-Profit Organization, or an individual/sole proprietor /single-member LLC.
 
 ![Payment Setup](/img/payment-setup-i.png "Payment Setup")
