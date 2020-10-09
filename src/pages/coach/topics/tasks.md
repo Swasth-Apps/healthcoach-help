@@ -41,17 +41,8 @@ This feature is supported by the app (DBT Coach, CBT Companion, ACT Coach) that 
 To complete this task, 
 
 * The client will have to select the emotion they are feeling from different sets of emotions available, such as depressed, sad, happy, anxious, neutral, moody, stressed, etc.
-
-
-
 * After that, they need to select the distress level on a scale of 1-10.
-
-
-
 * Finally, the client needs to describe their mood and behavior in the description box. 
-
-
-
 * Once saved, this information will be logged in the database and can be used to monitor the person’s swinging emotions.
 
 **2. Breathing Exercise**
@@ -62,10 +53,13 @@ The integrated applications come with a separate list of breathing exercises whi
 
 **3. Free Form**
 
-There are hundreds of activities that a user may perform to keep themselves happy. Music, painting, jogging, yoga, reading, cooking, cleaning, and the list is endless. Not all of these activities can be categorized, and this is where Free Form comes into role. 
+There are hundreds of activities that a user may perform to keep themselves happy. Music, painting, jogging, yoga, reading, cooking, cleaning, and the list is endless. 
 
-Free form caters to all the possible activities that a client performs to sustain their calm. 
- As a coach, when you add the task type to free form- the client will list out the tasks they performed along with the pictures. For instance, he/she may have gone for a morning walk; then, they will have to add a little brief about the task. The client can also complement the information with a snap of the place they visited during the walk for coaches to review.
+Not all of these activities can be categorized, and this is where Free Form comes into role. Free form caters to all the possible activities that a client performs to sustain their calm. 
+
+As a coach, when you add the task type to free form- the client will list out the tasks they performed along with the pictures. 
+
+For instance, he/she may have gone for a morning walk; then, they will have to add a little brief about the task. The client can also complement the information with a snap of the place they visited during the walk for coaches to review.
 
 ## Add tasks to a Program
 
@@ -76,19 +70,7 @@ To add a session in a program, go to the content tab, click on the “Add Tasks,
 There you will have to add the following details as mentioned below-
 
 * Input your task name, and add repeats (daily, monthly, none, weekly).
-
-
-
 * Mention the task type, for instance, breathing exercise, or free form.
-
-
-
 * Mention Time at which the user would have to begin the task
-
-
-
 * Add the day from the start, and a brief description of the task
-
-
-
 * Go ahead, press "continue" and unfold a new task in front of your clients.
