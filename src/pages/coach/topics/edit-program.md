@@ -38,10 +38,6 @@ To edit a program,
 
 In the first stage, you can edit the name of the Program, followed by a brief description of the same. 
 
-
-
-
-
 ![Edit Program](/img/edit-program-details-i.png "Edit Program")
 
 If you've opted for a group session in the second stage, you can edit the session size (clients), duration of sessions, additional documents, and tags. 
