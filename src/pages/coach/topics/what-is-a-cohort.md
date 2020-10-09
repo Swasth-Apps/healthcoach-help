@@ -9,7 +9,7 @@ recentTopics:
     title: Add sessions to a cohort
   - slug: topics/add-tasks-to-a-cohort
     title: Add tasks to a cohort
-  - slug: topics-coach/invite-users-to-join-a-cohort
+  - slug: topics/invite-users-to-join-a-cohort
     title: Invite Users to join a cohort
 ---
 Cohorts are different sets of batches running at different times. The coaches add these cohorts for delivering the program as per their convenience.
