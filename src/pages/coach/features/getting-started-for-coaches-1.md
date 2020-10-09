@@ -17,7 +17,7 @@ topics:
         title: Cohort Management
   - heading: Marketing
     topic:
-      - slug: categories/entries/marketing
+      - slug: categories/marketing
         title: Market your Services
 ---
 HealthCoach provides a platform to connect with your clients and successfully deliver your services. 
