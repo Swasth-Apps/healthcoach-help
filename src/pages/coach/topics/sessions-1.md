@@ -3,8 +3,6 @@ templateKey: coach-topic-page
 title: Sessions
 date: 2020-10-08T15:30:09.957Z
 recentTopics:
-  - slug: topics-coach/invite-users
-    title: Invite Users
   - slug: topics-coach/add-sessions-to-a-cohort
     title: Add sessions to a cohort
   - slug: topics-coach/what-is-a-cohort
@@ -13,6 +11,8 @@ recentTopics:
     title: Creating Account
   - slug: topics-coach/become-a-coach
     title: ' Become a Coach'
+  - slug: topics-coach/invite-users
+    title: Invite Users
 ---
 ## What is a session?
 
