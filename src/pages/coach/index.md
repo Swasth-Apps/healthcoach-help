@@ -5,7 +5,7 @@ features:
   feature:
     - description: Getting Started for Coaches
       image: /img/account_setting.png
-      slug: features/getting-started-for-coaches
+      slug: features-coach/getting-started-for-coaches-1
       title: Quick start
     - description: Start watching our videos
       image: /img/video.png
@@ -17,41 +17,17 @@ features:
       title: Important topics
 categories:
   category:
-    - image: /img/account-setting.png
-      slug: categories/overview-of-coaching-platform-1
-      title: Coaching Platform
     - image: /img/clinician_tools.png
-      slug: categories/setting-up-your-account-1
+      slug: categories-coach/setting-up-an-account-1
       title: Account Setup
-    - image: /img/client-notes.png
-      slug: categories/become-a-coach-1
-      title: Become a Coach
     - image: /img/schedule.png
-      slug: categories/create-program
+      slug: 'categories-coach/program '
       title: Create Program
-    - image: /img/client-portal.png
-      slug: categories/add-sessions
-      title: Add Sessions
-    - image: /img/billing-clients.png
-      slug: categories/add-tasks
-      title: Add Tasks
     - image: /img/insurance.png
-      slug: categories/add-cohorts
+      slug: categories-coach/cohort
       title: Add Cohorts
-    - image: /img/report.png
-      slug: categories/set-up-your-own-library-1
-      title: My Library
-    - image: /img/security.png
-      slug: categories/join-requests
-      title: Join Requests
     - image: /img/account-setting.png
-      slug: categories/co-coaching-sessions
-      title: Invite Co-Coaches
-    - image: /img/account-setting.png
-      slug: categories/marketing
+      slug: categories-coach/marketing
       title: Marketing
-    - image: /img/account-setting.png
-      slug: categories/support-1
-      title: Support
 ---
 
