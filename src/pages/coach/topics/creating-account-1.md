@@ -5,6 +5,8 @@ date: 2020-10-08T15:15:57.062Z
 ---
 Health Coach is a coaching platform designed to bring evidence-based therapies to your clients. Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
 
+![Coach Profile](/img/coach-profile.png "Coach Profile")
+
 With our application, you can do the following-
 
 * Create Programs, Schedule individual and group Sessions, and Add cohorts. 
