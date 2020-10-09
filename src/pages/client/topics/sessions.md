@@ -14,7 +14,11 @@ Sessions are the set of interaction modules between the client and coach accompa
 
 These sessions can be either in-office or video as per the flexibility of both parties. 
 
-A program involves sessions from time to time. A calendar will help you to check all the scheduled sessions in the upcoming days. To check all your past and future sessions, click on the Calendar tab present at the bottom of the screen. The calendar will enlist all the activities that are scheduled for the day. Also, with the left and right scrolling arrow, you can view the past and future sessions, respectively. 
+A program involves sessions from time to time. A calendar will help you to check all the scheduled sessions in the upcoming days. 
+
+To check all your past and future sessions, click on the Calendar tab present at the bottom of the screen. 
+
+The calendar will enlist all the activities that are scheduled for the day. Also, with the left and right scrolling arrow, you can view the past and future sessions, respectively. 
 
 ![View Sessions on Calendar](/img/my-calendar-i.png "View Sessions on Calendar")
 
