@@ -28,7 +28,7 @@ export const CategoryTemplate = ({
                         {featuredimage ?
                             <PreviewCompatibleImage imageInfo={{...feature, image: featuredimage}}/>
                             : ''}
-                        <PostContent content={content}/>
+                        <PostContent className="category-view-desc" content={content}/>
                         <div className="columns">
                             {
                                 topics && topics.length ? topics.map(topic => (

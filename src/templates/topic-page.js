@@ -132,7 +132,6 @@ export const pageQuery = graphql`
             slug
           }
         }
-        liveDemo
         recentTopics{
           title,
           slug
