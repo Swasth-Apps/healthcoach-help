@@ -12,8 +12,6 @@ recentTopics:
 ---
 Coaches can create groups based on different cohorts of a program. These groups provide all the members belonging to a specific cohort of a platform to interact. Members can share their experience, ask questions, and engage in meaningful conversations with other clients. The primary intent behind this functionality is to create a community of the people undergoing a similar situation. This way, a person may not feel alone in the journey, which will also help in boosting their progress. 
 
-![Group Messages](/img/group-messages-i.png "Group Messages")
-
  To send messages in a group-
 
 * Select on the Messages tab present at the bottom left.
@@ -21,6 +19,10 @@ Coaches can create groups based on different cohorts of a program. These groups 
 * Check all the groups that your coach has created
 * Select the group where you want to send messages.
 * Hit on the chat tab, and share what goes in your mind.
+
+![Group Messages](/img/group-messages-i.png "Group Messages")
+
+
 
 The app also supports sharing images and videos. You can click on the “+” (add icon) present on the bottom left of the screen. Upload the photo or video you wish to share with the group. 
 
