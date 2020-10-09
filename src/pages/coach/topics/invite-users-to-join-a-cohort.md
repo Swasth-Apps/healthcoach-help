@@ -2,6 +2,15 @@
 templateKey: coach-topic-page
 title: Invite Users to join a cohort
 date: 2020-10-09T14:48:57.886Z
+recentTopics:
+  - slug: topics-coach/add-tasks-to-a-cohort
+    title: Add tasks to a cohort
+  - slug: topics-coach/add-sessions-to-a-cohort
+    title: Add sessions to a cohort
+  - slug: topics-coach/tasks
+    title: Types of tasks
+  - slug: topics-coach/create-program
+    title: What is a program?
 ---
 As discussed in previous chapters, there are two ways of inviting users to join your program- Inviting users, and by accepting the requests sent by clients. In this section, we are going to discuss how to invite users to join a specific cohort. 
 
