@@ -30,9 +30,13 @@ To create a new Health Coach account, you need to first signup using your name, 
 * Password must contain a number
 * Password must contain a special character
 
+![Signup](/img/signup-i.png "Signup")
+
 Once you’ve inputted these details, click on “signup”. After that, you would have received a verification code on your registered mail id, use that code in the verification stage for confirming your account. The verification stage is for ensuring the security of your account. 
 
 You can quickly sign up for the Health Coach by following the steps mentioned above. Once completed the process, save the registered email id and password for future logins.
+
+![](/img/login-i.png)
 
 ## Forgot your password?
 
