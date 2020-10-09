@@ -3,7 +3,8 @@ templateKey: client-category-page
 title: Join a Program
 date: 2020-10-08T14:20:50.982Z
 topics:
-  - topic:
+  - heading: Types of Programs
+    topic:
       - slug: topics/free-programs
         title: Free Programs
       - slug: topics/paid-programs
