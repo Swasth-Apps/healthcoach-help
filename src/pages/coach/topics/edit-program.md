@@ -2,6 +2,9 @@
 templateKey: coach-topic-page
 title: 'Edit Program '
 date: 2020-10-09T05:46:31.019Z
+recentTopics:
+  - slug: topics-coach/tasks
+    title: 'Type of tasks '
 ---
 Edit program is an in-app functionality availing which the coach can edit the details of a program after creating the same. Whether you want to change the name of a program or some other piece- the "edit program" comes in handy.
 
@@ -16,11 +19,7 @@ To edit a program,
 
 ![Edit Program](/img/edit-program-name-i.png "Edit Program")
 
-
-
 In the first stage, you can edit the name of the Program, followed by a brief description of the same. 
-
-
 
 ![Edit Program](/img/edit-program-details-i.png "Edit Program")
 
