@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: 'Practice Info '
 date: 2020-10-08T15:21:19.543Z
 recentTopics:
-  - slug: topics-coach/become-a-coach
+  - slug: topics/become-a-coach
     title: Become a Coach
-  - slug: topics-coach/setup-up-payment
+  - slug: topics/setup-up-payment
     title: Setup up Payment
-  - slug: topics-coach/invite-co-coaches
+  - slug: topics/invite-co-coaches
     title: Invite Co-Coaches
-  - slug: topics-coach/sessions-1
+  - slug: topics/sessions-1
     title: Sessions
-  - slug: topics-coach/tasks
+  - slug: topics/tasks
     title: Tasks
 ---
 Practice info enlists the details of your coaching practice. 
@@ -38,4 +38,6 @@ Once your request to become a coach is approved, you can edit your practice info
 
 To edit your practice info, click on “My Practice” and the app will redirect you to “Edit Practice” Page. 
 
-On that page, you can edit the practice name, details, and the background photo. Once the changes are made, hit done, and your practice information will be updated.
+On that page, you can edit the practice name, details, and the background photo. 
+
+Once the changes are made, hit done, and your practice information will be updated.
