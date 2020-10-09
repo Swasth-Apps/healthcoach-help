@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: Sessions
 date: 2020-10-08T15:30:09.957Z
 recentTopics:
-  - slug: topics-coach/add-sessions-to-a-cohort
+  - slug: topics/add-sessions-to-a-cohort
     title: Add sessions to a cohort
-  - slug: topics-coach/what-is-a-cohort
+  - slug: topics/what-is-a-cohort
     title: 'What is a Cohort? '
-  - slug: topics-coach/creating-account-1
+  - slug: topics/creating-account-1
     title: Creating Account
-  - slug: topics-coach/become-a-coach
+  - slug: topics/become-a-coach
     title: ' Become a Coach'
-  - slug: topics-coach/invite-users
+  - slug: topics/invite-users
     title: Invite Users
 ---
 ## What is a session?
