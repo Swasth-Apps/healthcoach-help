@@ -11,7 +11,9 @@ Coach is an individual that is responsible for delivering sessions and tasks bas
 
 ## How to become a Coach?
 
-To become a coach, you need to complete the following steps-
+To become a coach-
+
+Go to"My Profile," click on "Become a Coach," and the app will redirect you to a new screen, where you need to fill the following details-
 
 * Enter the practice name; for instance, CBT Skills.
 * Describe your practice in the description box for clients to know about you a little more. 
