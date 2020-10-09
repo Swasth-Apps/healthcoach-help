@@ -43,6 +43,15 @@ To invite co-coaches for assisting in your Program,
 ![Invite Co-Coaches](/img/add-co-coaches-i.png "Invite Co-Coaches")
 
 * You can also search for coaches with their name, practice, and tags using a search bar.
+
+
+
 * Once you’ve finalized the individual you would like to invite, click on the invite button. 
+
+
+
 * Further, the request would be sent to the second person, and he/she can either accept or reject it based on their preferences. 
+
+
+
 * When the co-coach accepts or rejects your invitation, you will receive a notification informing you the same.
