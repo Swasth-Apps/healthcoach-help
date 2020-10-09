@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: 'Setup up Payment '
 date: 2020-10-08T15:24:04.803Z
 recentTopics:
-  - slug: topics-coach/creating-account-1
+  - slug: topics/creating-account-1
     title: Creating Account
-  - slug: topics-coach/become-a-coach
+  - slug: topics/become-a-coach
     title: Become a Coach
-  - slug: topics-coach/create-program
+  - slug: topics/create-program
     title: Create Program
-  - slug: topics-coach/what-is-a-cohort
+  - slug: topics/what-is-a-cohort
     title: What is a Cohort?
-  - slug: topics-coach/invite-users-to-join-a-cohort
+  - slug: topics/invite-users-to-join-a-cohort
     title: Invite Users to join a cohort
 ---
 This feature requires you to set up your payment account for getting paid for your services. 
