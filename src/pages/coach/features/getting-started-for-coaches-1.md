@@ -9,7 +9,7 @@ topics:
         title: 'Setting up an Account '
   - heading: Program
     topic:
-      - slug: categories/entries/program
+      - slug: categories/program
         title: Create & Edit Programs
   - heading: 'Cohort '
     topic:
