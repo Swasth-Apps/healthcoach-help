@@ -2,6 +2,17 @@
 templateKey: coach-topic-page
 title: 'Practice Info '
 date: 2020-10-08T15:21:19.543Z
+recentTopics:
+  - slug: topics-coach/become-a-coach
+    title: Become a Coach
+  - slug: topics-coach/setup-up-payment
+    title: Setup up Payment
+  - slug: topics-coach/invite-co-coaches
+    title: Invite Co-Coaches
+  - slug: topics-coach/sessions-1
+    title: Sessions
+  - slug: topics-coach/tasks
+    title: Tasks
 ---
 Practice info enlists the details of your coaching practice. When you send the request to become a coach, following pointers needed to be filled about your practice-
 
