@@ -26,7 +26,7 @@ Health Coach supports three types of tasks- Free Form, Diary Entry, and Breathin
 
 As a coach, you will have to mention the task type during the creation of tasks. This section is intended to walk you through all these types of tasks for completing your coaching journey successfully.
 
-![](/img/type-of-tasks-i.png)
+![Task Types](/img/type-of-tasks-i.png "Task Types")
 
 **1. Diary Entry**
 
