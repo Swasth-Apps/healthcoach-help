@@ -4,7 +4,15 @@ title: Sessions
 date: 2020-10-08T15:30:09.957Z
 recentTopics:
   - slug: topics-coach/invite-users
-    title: Invite Users-
+    title: Invite Users
+  - slug: topics-coach/add-sessions-to-a-cohort
+    title: Add sessions to a cohort
+  - slug: topics-coach/what-is-a-cohort
+    title: 'What is a Cohort? '
+  - slug: topics-coach/creating-account-1
+    title: Creating Account
+  - slug: topics-coach/become-a-coach
+    title: ' Become a Coach'
 ---
 ## What is a session?
 
