@@ -2,6 +2,17 @@
 templateKey: coach-topic-page
 title: 'What is Marketing Data? '
 date: 2020-10-08T15:54:14.771Z
+recentTopics:
+  - slug: topics-coach/how-to-add-marketing-data-to-your-program
+    title: How to add Marketing data to your program?
+  - slug: topics-coach/create-program
+    title: What is a program?
+  - slug: topics-coach/become-a-mentor
+    title: Become a Mentor
+  - slug: topics-coach/creating-account-1
+    title: Creating Account
+  - slug: topics-coach/invite-co-coaches
+    title: Invite Co-Coaches
 ---
 The question here isn’t how, but why!
 
