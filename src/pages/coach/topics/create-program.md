@@ -2,6 +2,9 @@
 templateKey: coach-topic-page
 title: 'Create Program '
 date: 2020-10-08T15:27:29.069Z
+recentTopics:
+  - slug: topics-coach/edit-program
+    title: ' Edit Program'
 ---
 ## What is a program?
 
