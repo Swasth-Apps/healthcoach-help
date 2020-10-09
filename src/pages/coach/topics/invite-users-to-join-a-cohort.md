@@ -7,6 +7,10 @@ recentTopics:
     title: Become a Coach
   - slug: topics-coach/what-is-a-cohort
     title: 'What is a Cohort? '
+  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+    title: Add Cohort to a Program
+  - slug: topics-coach/what-is-marketing-data
+    title: What is Marketing Data?
 ---
 As discussed in previous chapters, there are two ways of inviting users to join your program- Inviting users, and by accepting the requests sent by clients. In this section, we are going to discuss how to invite users to join a specific cohort. 
 
