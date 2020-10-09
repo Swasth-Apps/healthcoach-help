@@ -5,6 +5,8 @@ date: 2020-10-08T15:55:17.541Z
 recentTopics:
   - slug: topics-coach/what-is-marketing-data
     title: What is Marketing Data?
+  - slug: topics-coach/create-program
+    title: Create Program
 ---
 As discussed in the previous chapter, marketing data are different pieces of information about the program that helps in attracting clients. These include Video URL, Program Description, What you will learn, and Coach Info section. In this chapter, we are going to discuss the step-by-step guide of “how to add this marketing data to your program?”
 
