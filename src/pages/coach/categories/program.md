@@ -17,7 +17,7 @@ topics:
     topic:
       - slug: topics-coach/tasks
         title: Tasks
-  - heading: Invite users & Approve Requests
+  - heading: Grow Client Base
     topic:
       - slug: topics-coach/invite-users
         title: Invite Users
