@@ -23,14 +23,8 @@ categories:
     - image: /img/schedule.png
       slug: 'categories-coach/program '
       title: Create Program
-    - image: /img/client-portal.png
-      slug: categories/add-sessions
-      title: Add Sessions
-    - image: /img/billing-clients.png
-      slug: categories/add-tasks
-      title: Add Tasks
     - image: /img/insurance.png
-      slug: categories/add-cohorts
+      slug: categories-coach/cohort
       title: Add Cohorts
     - image: /img/report.png
       slug: categories/set-up-your-own-library-1
