@@ -7,13 +7,14 @@ The programs are created with an intent to coach people and earn some monetary b
 
 Primarily, there are two methods of inviting users to join your program- Inviting users, and by accepting the requests sent by clients. In this chapter, we are going to walk you through both of these ways of creating the client base.
 
-## Invite users to join Program 
+## Invite users to join Program
 
-As a coach, you may have a list of past clients that you would like to invite for joining the program. To invite the users, coaches need to have the users’ email id. The coach will have to click on the invite button, as shown in the image. 
+As a coach, you may have a list of past clients that you would like to invite for joining the program. To invite the users, coaches need to have the users’ email id. 
+The coach will have to click on the invite button, as shown in the image. 
+
+![Invite Users](/img/select-cohort-i.png "Invite Users")
 
 After that, a screen with the email id and message would popup. The coach will have to enter the user’s email address and a relevant message stating their cause. With this in-app functionality, the coach can retain their past clients along with creating new ones. 
-
-
 
 ## Approve join requests
 
