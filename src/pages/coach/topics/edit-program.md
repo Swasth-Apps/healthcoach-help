@@ -3,8 +3,14 @@ templateKey: coach-topic-page
 title: 'Edit Program '
 date: 2020-10-09T05:46:31.019Z
 recentTopics:
+  - slug: topics-coach/create-program
+    title: What is a program?
   - slug: topics-coach/tasks
     title: 'Type of tasks '
+  - slug: topics-coach/sessions-1
+    title: 'Add Sessions '
+  - slug: topics-coach/invite-users
+    title: Invite Users
 ---
 Edit program is an in-app functionality availing which the coach can edit the details of a program after creating the same. Whether you want to change the name of a program or some other piece- the "edit program" comes in handy.
 
