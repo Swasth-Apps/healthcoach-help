@@ -12,12 +12,20 @@ recentTopics:
   - slug: topics-coach/add-tasks-to-a-cohort
     title: How to add sessions in a cohort?
 ---
-As discussed in the previous chapter, marketing data are different pieces of information about the program that helps in attracting clients. These include Video URL, Program Description, What you will learn, and Coach Info section. In this chapter, we are going to discuss the step-by-step guide of “how to add this marketing data to your program?”
+As discussed in the previous chapter, marketing data are different pieces of information about the program that helps in attracting clients. These include Video URL, Program Description, What you will learn, and Coach Info section. 
+
+In this chapter, we are going to discuss the step-by-step guide of “how to add this marketing data to your program?”
 
 For adding marketing data to a specific program,
 
 * Go to the program you intend to add marketing data
+
+
+
 * Go to the marketing tab, as shown in the image.
+
+
+
 * Fill the details of individual sections- Video URL, Description, What you will learn, and Coach Info.
 
 ![Marketing Data](/img/marketing-i.png "Marketing Data")
