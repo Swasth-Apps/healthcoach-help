@@ -9,6 +9,8 @@ recentTopics:
     title: Search Programs
   - slug: topics/search-coaches
     title: Search Coaches
+  - slug: topics/upcoming-sessions
+    title: Upcoming sessions
 ---
 You can look up for different programs by adding the relevant tags in the search bar offered by coaches.  Also, there are some programs that are marked featured. 
 
