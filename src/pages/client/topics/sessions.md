@@ -5,8 +5,6 @@ date: 2020-10-08T14:09:21.713Z
 recentTopics:
   - slug: topics-coach/become-a-mentor
     title: Become a Mentor
-  - slug: topics-coach/create-program
-    title: Create Program
   - slug: topics-coach/tasks
     title: Add tasks to a Program
   - slug: topics-coach/what-is-a-cohort
