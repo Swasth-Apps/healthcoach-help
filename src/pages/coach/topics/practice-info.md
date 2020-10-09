@@ -10,7 +10,9 @@ Practice info enlists the details of your coaching practice. When you send the r
 * Select the category of your skills, such as DBT, CBT, ACT, Nutrition, Mindfulness, Substance Abuse, etc.
 * You can also choose to change the background for clients to identify you better. 
 
-Once your request to become a coach is approved, you can edit your practice information with the “My Practice” feature present at the top left corner of the profile tab. 
+![Coach Profile](/img/coach-profile-i.png "Coach Profile")
+
+Once your request to become a coach is approved, you can edit your practice information with the “My Practice” feature present at the top left corner of the profile tab. 
 
 To edit your practice info, click on “My Practice” and the app will redirect you to “Edit Practice” Page. 
 
