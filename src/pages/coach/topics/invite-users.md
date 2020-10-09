@@ -2,6 +2,17 @@
 templateKey: coach-topic-page
 title: Invite Users
 date: 2020-10-08T15:36:44.489Z
+recentTopics:
+  - slug: topics-coach/invite-users-to-join-a-cohort
+    title: Invite Users to join a cohort
+  - slug: topics-coach/what-is-a-cohort
+    title: 'What is a Cohort? '
+  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+    title: How to add a Cohort to a Program?
+  - slug: topics-coach/what-is-marketing-data
+    title: What is Marketing Data?
+  - slug: topics-coach/how-to-add-marketing-data-to-your-program
+    title: How to add Marketing data to your program?
 ---
 The programs are created with an intent to coach people and earn some monetary benefit (if the program is paid). Once you’re done creating a complete program, then it’s time to invite the right set of audience for availing your services. 
 
