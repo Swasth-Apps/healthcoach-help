@@ -5,7 +5,7 @@ features:
   feature:
     - description: Getting Started for Coaches
       image: /img/account_setting.png
-      slug: features/getting-started-for-coaches
+      slug: features-coach/getting-started-for-coaches-1
       title: Quick start
     - description: Start watching our videos
       image: /img/video.png
