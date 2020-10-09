@@ -22,7 +22,7 @@ Our coaches use the principles of Evidence-based therapies (DBT, CBT, ACT) for a
 
 Coaches, via the platform, can help you in dealing with many aspects of your life that affect your overall well being, including, but not limited to- Substance abuse, Anger management, Bipolar disorder, Mindfulness and meditation, Parenting skill, Gender identity, sexuality, OCD, Depression, Anxiety, Eating disorders, CBT, ACT, DBT Skills, Emotional support, Work-Life Balance, etc.
 
-![ Client Profile](/img/client-profile.jpg " Client Profile")
+![Client Profile](/img/client-profile-i.png "Client Profile")
 
 ## How to create a new account?
 
