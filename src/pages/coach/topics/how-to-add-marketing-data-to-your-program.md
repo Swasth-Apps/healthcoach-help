@@ -11,6 +11,8 @@ For adding marketing data to a specific program,
 * Go to the marketing tab, as shown in the image.
 * Fill the details of individual sections- Video URL, Description, What you will learn, and Coach Info.
 
+![Marketing Data](/img/marketing-i.png "Marketing Data")
+
 We have already discussed these individual sections in the previous chapter; however, in the chapter, we are going to dive into details and support the guide with some examples.
 
 **1. Video URL**
