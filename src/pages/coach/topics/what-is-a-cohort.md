@@ -7,7 +7,7 @@ recentTopics:
     title: How to add a Cohort to a Program?
   - slug: topics/add-sessions-to-a-cohort
     title: Add sessions to a cohort
-  - slug: topics-coach/add-tasks-to-a-cohort
+  - slug: topics/add-tasks-to-a-cohort
     title: Add tasks to a cohort
   - slug: topics-coach/invite-users-to-join-a-cohort
     title: Invite Users to join a cohort
