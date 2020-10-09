@@ -20,11 +20,8 @@ categories:
     - image: /img/clinician_tools.png
       slug: categories-coach/setting-up-an-account-1
       title: Account Setup
-    - image: /img/client-notes.png
-      slug: categories/become-a-coach-1
-      title: Become a Coach
     - image: /img/schedule.png
-      slug: categories/create-program
+      slug: 'categories-coach/program '
       title: Create Program
     - image: /img/client-portal.png
       slug: categories/add-sessions
