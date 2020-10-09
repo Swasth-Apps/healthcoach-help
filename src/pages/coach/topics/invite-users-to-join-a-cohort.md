@@ -16,7 +16,9 @@ As discussed in previous chapters, there are two ways of inviting users to join 
 
 ![Select Cohort](/img/select-cohort-i.png "Select Cohort")
 
-## How to invite users to join a cohort?
+## 
+
+## How to invite users to join a cohort?
 
 As a coach, you may have a list of past clients that you would like to invite for joining the program. To invite the users, coaches need to have the users’ email id. 
 
