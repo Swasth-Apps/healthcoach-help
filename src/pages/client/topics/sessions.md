@@ -2,7 +2,13 @@
 templateKey: client-topic-page
 title: 'Sessions '
 date: 2020-10-08T14:09:21.713Z
-recentTopics: []
+recentTopics:
+  - slug: topics/enrolled-programs
+    title: Enrolled Programs
+  - slug: topics/upcoming-sessions
+    title: Upcoming sessions- Dashboard
+  - slug: topics/scheduled-tasks
+    title: 'Scheduled Tasks '
 ---
 Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a period of time. These sessions can be either in-office or video as per the flexibility of both parties. 
 
