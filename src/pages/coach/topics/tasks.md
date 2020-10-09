@@ -5,20 +5,24 @@ date: 2020-10-08T15:33:41.647Z
 recentTopics:
   - slug: topics-coach/create-program
     title: Create Program
-  - slug: topics-coach/edit-program
+  - slug: topics/edit-program
     title: ' Edit Program '
-  - slug: topics-coach/sessions-1
+  - slug: topics/sessions-1
     title: 'Add Sessions '
-  - slug: topics-coach/add-tasks-to-a-cohort
+  - slug: topics/add-tasks-to-a-cohort
     title: Add tasks to a cohort
-  - slug: topics-coach/what-is-a-cohort
+  - slug: topics/what-is-a-cohort
     title: 'What is a Cohort? '
-  - slug: topics-coach/how-to-add-a-cohort-to-a-program
+  - slug: topics/how-to-add-a-cohort-to-a-program
     title: How to add a Cohort to a Program?
 ---
 ## What is a task?
 
-Tasks are the set of activities that are prescribed to clients throughout the program. After a session is taken, coaches assign a set of activities based on individual sessions, like logging your emotions, practicing meditation, etc. regularly. These activities are designed to help in a positive shift in the client’s behavior. Without covering these activities, a client can’t complete the program successfully. Coaches can add tasks or use some predefined tasks available in the application. These predefined tasks are taken from the three integrated apps- CBT Companion, ACT Coach, and DBT Coach. The apps are equipped with a series of lessons, exercises, and homework assignments for enriching your program’s value. 
+Tasks are the set of activities that are prescribed to clients throughout the program. After a session is taken, coaches assign a set of activities based on individual sessions, like logging your emotions, practicing meditation, etc. regularly. 
+
+These activities are designed to help in a positive shift in the client’s behavior. Without covering these activities, a client can’t complete the program successfully. Coaches can add tasks or use some predefined tasks available in the application. 
+
+These predefined tasks are taken from the three integrated apps- CBT Companion, ACT Coach, and DBT Coach. The apps are equipped with a series of lessons, exercises, and homework assignments for enriching your program’s value. 
 
 ## Types of tasks
 
@@ -30,7 +34,9 @@ As a coach, you will have to mention the task type during the creation of tasks.
 
 **1. Diary Entry**
 
-Diary entry is like a mood tracking journal. This task type comprises of mood type, distress level, and a brief description. This feature is supported by the app (DBT Coach, CBT Companion, ACT Coach) that you have chosen to link with the program. 
+Diary entry is like a mood tracking journal. This task type comprises of mood type, distress level, and a brief description. 
+
+This feature is supported by the app (DBT Coach, CBT Companion, ACT Coach) that you have chosen to link with the program. 
 
 To complete this task, 
 
@@ -41,14 +47,19 @@ To complete this task,
 
 **2. Breathing Exercise**
 
-This is a set of breathing exercises that the coach can prescribe their clients to perform on a specific time of the day at regular intervals. The integrated applications come with a separate list of breathing exercises which a coach can avail to make the most out of the program. 
+This is a set of breathing exercises that the coach can prescribe their clients to perform on a specific time of the day at regular intervals. 
+
+The integrated applications come with a separate list of breathing exercises which a coach can avail to make the most out of the program. 
 
 **3. Free Form**
 
-There are hundreds of activities that a user may perform to keep themselves happy. Music, painting, jogging, yoga, reading, cooking, cleaning, and the list is endless. Not all of these activities can be categorized, and this is where Free Form comes into role. 
+There are hundreds of activities that a user may perform to keep themselves happy. Music, painting, jogging, yoga, reading, cooking, cleaning, and the list is endless. 
 
-Free form caters to all the possible activities that a client performs to sustain their calm. 
- As a coach, when you add the task type to free form- the client will list out the tasks they performed along with the pictures. For instance, he/she may have gone for a morning walk; then, they will have to add a little brief about the task. The client can also complement the information with a snap of the place they visited during the walk for coaches to review.
+Not all of these activities can be categorized, and this is where Free Form comes into role. Free form caters to all the possible activities that a client performs to sustain their calm. 
+
+As a coach, when you add the task type to free form- the client will list out the tasks they performed along with the pictures. 
+
+For instance, he/she may have gone for a morning walk; then, they will have to add a little brief about the task. The client can also complement the information with a snap of the place they visited during the walk for coaches to review.
 
 ## Add tasks to a Program
 
@@ -59,7 +70,7 @@ To add a session in a program, go to the content tab, click on the “Add Tasks,
 There you will have to add the following details as mentioned below-
 
 * Input your task name, and add repeats (daily, monthly, none, weekly).
-* Mention the task type, for instance, breathing exercise, or free form
+* Mention the task type, for instance, breathing exercise, or free form.
 * Mention Time at which the user would have to begin the task
 * Add the day from the start, and a brief description of the task
 * Go ahead, press "continue" and unfold a new task in front of your clients.
