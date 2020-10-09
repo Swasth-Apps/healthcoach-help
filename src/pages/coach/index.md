@@ -26,20 +26,8 @@ categories:
     - image: /img/insurance.png
       slug: categories-coach/cohort
       title: Add Cohorts
-    - image: /img/report.png
-      slug: categories/set-up-your-own-library-1
-      title: My Library
-    - image: /img/security.png
-      slug: categories/join-requests
-      title: Join Requests
     - image: /img/account-setting.png
-      slug: categories/co-coaching-sessions
-      title: Invite Co-Coaches
-    - image: /img/account-setting.png
-      slug: categories/marketing
+      slug: categories-coach/marketing
       title: Marketing
-    - image: /img/account-setting.png
-      slug: categories/support-1
-      title: Support
 ---
 
