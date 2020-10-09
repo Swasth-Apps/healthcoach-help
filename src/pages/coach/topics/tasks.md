@@ -9,7 +9,7 @@ recentTopics:
     title: ' Edit Program '
   - slug: topics/sessions-1
     title: 'Add Sessions '
-  - slug: topics-coach/add-tasks-to-a-cohort
+  - slug: topics/add-tasks-to-a-cohort
     title: Add tasks to a cohort
   - slug: topics-coach/what-is-a-cohort
     title: 'What is a Cohort? '
