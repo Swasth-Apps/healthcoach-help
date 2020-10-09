@@ -3,7 +3,8 @@ templateKey: coach-category-page
 title: 'Cohort '
 date: 2020-10-09T06:03:05.116Z
 topics:
-  - topic:
+  - heading: Cohort Management
+    topic:
       - slug: topics-coach/what-is-a-cohort
         title: 'What is a Cohort? '
       - slug: topics-coach/how-to-add-a-cohort-to-a-program
