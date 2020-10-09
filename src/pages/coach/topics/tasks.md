@@ -7,7 +7,7 @@ recentTopics:
     title: Create Program
   - slug: topics/edit-program
     title: ' Edit Program '
-  - slug: topics-coach/sessions-1
+  - slug: topics/sessions-1
     title: 'Add Sessions '
   - slug: topics-coach/add-tasks-to-a-cohort
     title: Add tasks to a cohort
