@@ -3,15 +3,15 @@ templateKey: coach-topic-page
 title: 'Become a Mentor '
 date: 2020-10-08T15:22:35.154Z
 recentTopics:
-  - slug: topics-coach/creating-account-1
+  - slug: topics/creating-account-1
     title: Creating Account
-  - slug: topics-coach/become-a-coach
+  - slug: topics/become-a-coach
     title: Become a Coach
-  - slug: topics-coach/create-program
+  - slug: topics/create-program
     title: Create Program
-  - slug: topics-coach/edit-program
+  - slug: topics/edit-program
     title: Edit Program
-  - slug: topics-coach/what-is-a-cohort
+  - slug: topics/what-is-a-cohort
     title: 'What is a Cohort? '
 ---
 A mentor is a coach that can guide other coaches in their coaching journey with Health Coach. As a coach, many-a-times, you may face various obstacles during the coaching journey. 
