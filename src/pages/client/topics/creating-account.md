@@ -7,8 +7,6 @@ recentTopics:
     title: My Library
   - slug: topics/upcoming-sessions
     title: Upcoming sessions
-  - slug: topics/enrolled-programs
-    title: Notifications
   - slug: topics/search-programs
     title: Search Programs
 ---
@@ -29,26 +27,14 @@ Coaches, via the platform, can help you in dealing with many aspects of your lif
 To create a new Health Coach account, you need to first signup using your name, email address, and a robust password. The password policy for setting up a Health Coach account is as follows-
 
 * Password must be at least 8 characters
-
-
-
 * Password must contain an uppercase character
-
-
-
 * Password must contain a lowercase character
-
-
-
 * Password must contain a number
-
-
-
 * Password must contain a special character
 
 ![Signup](/img/signup-i.png "Signup")
 
-Once you’ve inputted these details, click on “signup”. 
+Once you’ve entered these details, click on “signup”. 
 
 After that, you would have received a verification code on your registered mail id, use that code in the verification stage for confirming your account. 
 
