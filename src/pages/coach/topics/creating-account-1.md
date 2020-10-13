@@ -23,33 +23,12 @@ Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion;
 With our application, you can do the following-
 
 * Create Programs, Schedule individual and group Sessions, and Add cohorts. 
-
-
-
 * Once you’re done setting programs, Accept payments for your sessions via our portal. 
-
-
-
 * Create your workspace by adding documents, links, and images.
-
-
-
 * Add Content from your library or use our three popular apps- DBT Coach, CBT Companion, ACT Coach. 
-
-
-
 * Skills Coaching to help your clients in dealing with their issues in a structured manner. 
-
-
-
 * You can also choose to participate in our flexible Skills Coaching Network and generate an additional source of revenue. 
-
-
-
 * Assign lessons and exercises to clients as homework, and view their progress.
-
-
-
 * Appoint a Co-Coach to help you run a successful clinician practice. 
 
 Below you’ll see the recommended walkthrough for a new HealthCoach user (coach) experience, right from simple signup to a fully-fledged account.
@@ -61,26 +40,14 @@ To create a new Health Coach account, you need to first signup using your name, 
 The password policy for setting up a Health Coach account is as follows-
 
 * Password must be at least 8 characters
-
-
-
 * Password must contain an uppercase character
-
-
-
 * Password must contain a lowercase character
-
-
-
 * Password must contain a number
-
-
-
 * Password must contain a special character
 
 ![Signup](/img/signup-i.png "Signup")
 
-Once you’ve inputted these details, click on “signup”. 
+Once you’ve entered these details, click on “signup”. 
 
 After that, you would have received a verification code on your registered mail id, use that code in the verification stage for confirming your account. The verification stage is for ensuring the security of your account. 
 
