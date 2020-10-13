@@ -20,7 +20,7 @@ Usually, the tasks are added in the program itself. However, sometimes a coach w
 
 ![Select Cohort](/img/select-cohort-i.png "Select Cohort")
 
-## How to add sessions in a cohort?
+## How to add tasks in a cohort?
 
 To add tasks in a cohort, you have to select the cohort and go to the tasks tab. Click on “add tasks“ and the app would redirect you to "Add Tasks" page as shown in the image.
 
