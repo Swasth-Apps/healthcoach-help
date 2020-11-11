@@ -10,14 +10,10 @@ topics:
       - slug: topics/scheduled-tasks
         title: Scheduled Tasks
 ---
-When you have joined a program, there will be a lot of activities. 
+The Health Coach is equipped with quality programs and empirical skill-sets that allow the user to ride out elements of mental discomfort and establish a meaningful life. 
 
-A program is supplemented with a series of tasks, lessons, sessions, and homework assignments. 
+Our programs provide a diverse scale of solutions through sessions and exercises that can be easily accessed, once enrolled. Each program ranges from eight to twenty-four modules that require your frequent attention.
 
-To complete the program successfully, you need to finish all these things timely. Some of them require daily attention, and others may occur once in a week or so. 
-
-The busyness has become our nature, and we all need a little reminder to accomplish our goals. Sometimes out of habit, or jammed up routines, the clients may forget the approaching session or scheduled task. 
-
-Addressing this issue, Health Coach has been equipped with a user-friendly, robust calendar that will enlist all your upcoming sessions and tasks.
+However, out of constricted routines and busy lifestyle, the clients may forget the approaching session or a scheduled task. Therefore, to ensure a smooth practice, the Health Coach provides users with an easy-to-use calendar that will enlist all upcoming sessions and tasks and remind them of Diary Card entries.
 
 ![My Calendar](/img/my-calendar.jpg "My Calendar")
