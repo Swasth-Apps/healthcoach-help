@@ -12,10 +12,10 @@ topics:
 ---
 A program is a series of lessons, tasks, exercises, followed by homework sessions run over some time. 
 
-Based on your requirements, you can choose to sign up for tailored programs and learn to deal with issues via this comprehensive platform. 
+Based on your needs, you can choose to sign up for personalized programs and learn to tackle specific psychological concerns with the help of this robust and comprehensive platform. 
 
-Using our platform, coaches can get a holistic view of their clients - mental, emotional, physical, nutrition, bio-feedback etc. This allows them to provide tailored treatment that leads to better outcomes.
+Using this platform, our expert coaches can acquire a holistic anatomy of their clients - mental, emotional, physical, nutrition, bio-feedback etc. This allows them to provide tailored treatment that leads to effective outcomes.
 
 Primarily, there are two types of programs that Health Coach offers- Free and Paid.
 
-Check out the links below to know about these different types in detail.
+Check out the links below to know more about them in details.
