@@ -48,6 +48,6 @@ You can easily sign up for the Health Coach by following the steps mentioned abo
 
 If you ever forget your password, don’t panic! We have got your back. 
 
-On the bottom login screen, you can locate a link which will assist you in recovering your password. 
+At the bottom login screen, you can locate a link which will assist you in recovering your password. 
 
 Click on “forgot your password” and enter your registered email id. The link to the new password will be sent on your email account following which you can enter your new password.
