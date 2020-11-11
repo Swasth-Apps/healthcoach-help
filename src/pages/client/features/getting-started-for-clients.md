@@ -28,8 +28,8 @@ topics:
       - slug: categories/support
         title: Support
 ---
-Are you feeling anxious? Depression sinking deep into skin? Work-life balance going off the beats? ROCD taking a toll on your health? Whatever challenges you’re facing, we have life-changing programs, coaches, and other resources- all connected via a robust platform, Health Coach, to bring your life back on tracks. 
+Are you feeling anxious? Depression sinking deep into your skin? Any mental health concern that is currently bothering you can be solved, if you make an effort. Here in Swasth, we have life-changing programs, coaches, and other resources- all connected via a robust platform, Health Coach, to bring your life back on tracks. 
 
-Designed by marrying technology and Evidence-Based Therapies by taking overall health (mental, physical, social, nutrition, etc.), the programs included in Health Coach are delivered by licensed therapists and certified behavioral health coaches. The platform is designed to ease your engagement with therapists to improve your overall well being. 
+Designed by marrying technology and Evidence-Based Therapies by taking overall health (mental, physical, social, nutrition, etc.), the programs included in Health Coach are delivered by licensed therapists and certified behavioral health coaches. The platform is designed to ease your engagement with therapists to improve your overall well being. With the right combination of evidence-based therapies, personalized exercises, and technology, our programs are delivered by Licensed Psychologists and Certified Behavioral Health Coaches. By tapping into the evidence-based treatment modalities, our coaches will help modify your life into a more meaningful one, as they assist you in eliminating elements of overwhelming emotions and dysfunctional behavior.
 
-This guide is aimed to provide all the necessary details and resources required for setting up a new account and start using features like join programs, schedule sessions, set up a library, become a coach, seek support, and much more.
+This guide is aimed to provide all the necessary details and resources required for setting up a new account and leveraging the multifaceted features of this platform.
