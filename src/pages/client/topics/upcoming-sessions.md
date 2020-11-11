@@ -12,7 +12,7 @@ recentTopics:
   - slug: topics/creating-account
     title: Creating Account
 ---
-Sessions are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a while. 
+Sessions  are the set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a while. 
 
 These sessions can be either in-office or video as per the flexibility of both parties. 
 
