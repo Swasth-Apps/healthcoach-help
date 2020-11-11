@@ -12,6 +12,6 @@ topics:
       - slug: topics/my-library
         title: My Library
 ---
-Health Coach is designed to ease your engagement with therapists to improve your overall well being. 
+Health Coach is designed to ease your engagement with therapists for an overall improved wellbeing. It is created designed to solve the web of queries and open the door to self-realization. Our platform is based on research and evidence and has a proven track record of promoting positive mental health among individuals that lasts a lifetime and ensures a smooth life even after therapy.
 
-Below you’ll see the recommended walkthrough for a new HealthCoach user (client) experience, right from simple signup to a fully-fledged account.
+View below the recommended walkthrough for a new Health Coach user(client) experience, from basic signup to a full-fledged account.
