@@ -22,7 +22,7 @@ topics:
       - slug: topics/search-programs
         title: Search Programs
 ---
-The Health Coach dashboard is a one-stop destination for all relevant resources and networks. It promotes a detailed overview of primary activities and helps the user delve deep into our myriad of mental wellness services, at ease. To view this page, click on the dashboard icon available at the center of the bottom bar. 
+The Health Coach dashboard is a one-stop destination for all relevant resources and programs. It promotes a detailed overview of primary activities and helps the user delve deep into our myriad of mental wellness services, at ease. To view this page, click on the dashboard icon available at the center of the bottom bar. 
 
 It comprises the following components: Notifications on the top left corner, search bar on the top, followed by upcoming sessions, and enrolled programs.
 
