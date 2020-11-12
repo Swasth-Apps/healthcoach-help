@@ -20,15 +20,17 @@ To join an unpaid program, enter the relevant tag in the search bar and check ou
 
 The admin sets the list of featured coaches and programs based on their experience, client reviews, successfully completed programs, etc. 
 
-To search them, go to my profile and click on the star icon present at the top right corner, as shown in the above image. 
+To search them, go to 'My Profile' and click on the star icon present at the top right corner, as shown in the above image. 
 
-There, you will have a list of featured coaches and programs.
+Here, you will have a list of featured coaches and programs.
 
 ![Featured Programs](/img/featured-coaches-programs-i.png "Featured Programs")
 
 The programs that are not listed as paid can be easily filtered. 
 
-Programs consist of multiple cohorts. After selecting the program, you need to choose the suitable cohort for joining the program from all the cohorts available. A cohort is a group of sessions that consist of multiple skill-sets and assessments, curated for addressing specific needs. 
+Each program consist of multiple cohorts. A cohort is a group of sessions that consist of multiple skill-sets and assessments, curated for addressing specific needs. 
+
+After selecting the program, you need to choose the suitable cohort for joining the program from all the cohorts available. 
 
 Select the preferred cohort, and you will be enrolled in the program. 
 
