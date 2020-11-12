@@ -15,7 +15,7 @@ recentTopics:
 ---
 A program is a series of lessons, tasks, exercises, followed by homework sessions run over some time. 
 
-Based on your requirements, you can choose to sign up for tailored programs and learn to deal with issues via this comprehensive platform.
+Based on your requirements, you can choose to sign up for tailored programs for tackling various health concerns through this comprehensive platform.
 
 ![Dashboard](/img/dashboard-i.png "Dashboard")
 
