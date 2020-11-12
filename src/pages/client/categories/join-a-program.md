@@ -10,12 +10,10 @@ topics:
       - slug: topics/paid-programs
         title: Paid Programs
 ---
-A program is a series of lessons, tasks, exercises, followed by homework sessions run over some time. 
+A program is a series of lessons, tasks, exercises, followed by homework sessions that run over some time. 
 
-Based on your needs, you can choose to sign up for personalized programs and learn to tackle specific psychological concerns with the help of this robust and comprehensive platform. 
+You can sign up for personalized programs to tackle one or more mental health concerns and seek help from trained therapists and coaches.
 
-Using this platform, our expert coaches can acquire a holistic anatomy of their clients - mental, emotional, physical, nutrition, bio-feedback etc. This allows them to provide tailored treatment that leads to effective outcomes.
+Primarily, there are two types of programs offered by Health Coach- Free and Paid.
 
-Primarily, there are two types of programs that Health Coach offers- Free and Paid.
-
-Check out the links below to know more about them in details.
+Click on the links below to know more about them in details.
