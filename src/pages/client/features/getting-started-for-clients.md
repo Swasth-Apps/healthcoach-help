@@ -28,6 +28,6 @@ topics:
       - slug: categories/support
         title: Support
 ---
-This platform is designed to ease your engagement with therapists for improving your overall well being. With the right combination of evidence-based therapies, personalized exercises, and technology, our programs are delivered by Licensed Psychologists and Certified Behavioral Health Coaches. By tapping into the evidence-based treatment modalities, our coaches will help modify your life into a more meaningful one by assisting you in eliminating elements of overwhelming emotions and dysfunctional behavior.
+This platform is designed to ease your engagement with therapists for improving your overall well being. By tapping into the evidence-based treatment modalities, our coaches will help modify your life into a more meaningful one by assisting you in eliminating elements of overwhelming emotions and dysfunctional behaviors.
 
 This guide is aimed to provide all the necessary details and resources required for setting up a new account and leveraging the multifaceted features of this platform.
