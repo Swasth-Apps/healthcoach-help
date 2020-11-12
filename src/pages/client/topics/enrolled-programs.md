@@ -13,7 +13,7 @@ recentTopics:
   - slug: categories/support
     title: Support
 ---
-A program is a series of lessons, tasks, exercises, followed by homework sessions run over some time. 
+A program contains a series of lessons, tasks, exercises, followed by homework sessions run over some time. 
 
 Based on your requirements, you can choose to sign up for tailored programs for tackling various health concerns through this comprehensive platform.
 
