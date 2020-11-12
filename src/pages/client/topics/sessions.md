@@ -22,4 +22,4 @@ The calendar will enlist all the activities that are scheduled for the day. Also
 
 ![View Sessions on Calendar](/img/my-calendar-i.png "View Sessions on Calendar")
 
-Not only this, but you can also view the upcoming session- day, date, and time on the dashboard. With this, you can better plan your days and never miss any activity.
+You can also view the upcoming session- day, date, and time on the dashboard and subsequently plan your days to never miss a session or assessment.
