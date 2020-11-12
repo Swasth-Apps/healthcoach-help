@@ -10,7 +10,7 @@ recentTopics:
   - slug: topics/scheduled-tasks
     title: 'Scheduled Tasks '
 ---
-Sessions are a set of interaction modules between the client and coach accompanied by tasks, homework exercises for completing the program over a period of time. 
+Sessions are a set of interaction modules designed both for the client and coach accompanied by skill cards and homework exercises for completing the program over a period of time. 
 
 These sessions can be either in-office or video as per the flexibility of both parties. 
 
