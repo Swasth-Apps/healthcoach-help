@@ -19,8 +19,8 @@ The primary intent behind this functionality is to create a community of the peo
  To send messages in a group-
 
 * Select on the Messages tab present at the bottom left.
-* Click on the Group Message as shown in the screen
-* Check all the groups that your coach has created
+* Click on the Group Message as shown in the screen.
+* Check all the groups that your coach has created.
 * Select the group where you want to send messages.
 * Hit on the chat tab, and share what goes in your mind.
 
