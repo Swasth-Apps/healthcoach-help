@@ -28,7 +28,7 @@ There, you will have a list of featured coaches and programs.
 
 The programs that are not listed as paid can be easily filtered. 
 
-Programs are equipped with many cohorts; after selecting the program, you need to choose the suitable cohort for joining the program from all the cohorts available. A cohort is a group of sessions that consist of multiple skill-sets and assessments, curated for addressing specific needs. 
+Programs consist of multiple cohorts. After selecting the program, you need to choose the suitable cohort for joining the program from all the cohorts available. A cohort is a group of sessions that consist of multiple skill-sets and assessments, curated for addressing specific needs. 
 
 Select the preferred cohort, and you will be enrolled in the program. 
 
@@ -36,7 +36,7 @@ Select the preferred cohort, and you will be enrolled in the program.
 
 To comprise-
 
-* Search the program by inserting relevant tags in the search bar or check the featured program as mentioned above. 
+* Search for the program by inserting relevant tags in the search bar or check the featured program as mentioned above. 
 * Find the unpaid program that you would like to join.
 * Click on the join button and view all the cohorts available. 
 * Select the cohort as per your convenience, and your request to join the cohort will be sent to the coach for acceptance. 
