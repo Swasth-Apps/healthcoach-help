@@ -12,7 +12,7 @@ topics:
 ---
 Effective communication is key to any kind of therapy.
 
-Health Coach allows users to maintain a seamless connection through texts, videos and documents. Clients can send messages to their coaches, or other clients who are part of the same cohort through the app.
+Health Coach allows users to maintain a seamless connection through texts, videos and documents. Clients can send messages to their coaches, or other users who are part of the same cohort through the app.
 
 Health coach offers two types of messaging services to the users- 
 Direct & Group. 
