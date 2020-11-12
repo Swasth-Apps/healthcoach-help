@@ -21,4 +21,4 @@ Based on your requirements, you can choose to sign up for tailored programs for 
 
 A user may enroll in multiple programs. The dashboard helps in keeping tracking of all the programs by enlisting them, as shown in the image. 
 
-Click on the dashboard icon and check the Enrolled Programs card present on the screen for viewing programs.
+Click on the dashboard icon and tap the Enrolled Programs card present to know more about the programs.
