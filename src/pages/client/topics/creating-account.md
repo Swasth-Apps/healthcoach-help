@@ -12,13 +12,7 @@ recentTopics:
 ---
 Health Coach is a coaching platform designed to make your treatment easier and affordable through trained therapists for an overall improved health (mental, physical, social, nutrition, etc.) 
 
-The foundation of Health Coach lays on the concept of Behavioral Health Coaching that is curated with extensive research and empirical evidence.
-
-Both the parties (clients and coaches) will use a proven system that aids in instilling appropriate behavioral changes which last a lifetime. 
-
-Our coaches use the principles of Evidence-based therapies (DBT, CBT, ACT) for altering the clients’ actions, reactions, and behavioral patterns. 
-
-Coaches, via the platform, can help you in dealing with many aspects of your life that affect your overall well being, including, but not limited to- Substance abuse, Anger management, Bipolar disorder, Mindfulness and meditation, Parenting skill, Gender identity, sexuality, OCD, Depression, Anxiety, Eating disorders, CBT, ACT, DBT Skills, Emotional support, Work-Life Balance, etc.
+Our coaches use the principles of Evidence-based therapies (DBT, CBT, ACT) for altering the clients’ actions, reactions, and behavioral patterns to treat myriad of issues like Substance use, Depression, Anxiety, Distorted Work-life Balance and many more.
 
 ![Client Profile](/img/client-profile-i.png "Client Profile")
 
@@ -36,7 +30,7 @@ To create a new Health Coach account, you need to first register with your name,
 
 Once you’ve entered these details, click on “signup”. 
 
-Now, you will receive a verification code on your registered mail id, use that code in the verification stage for confirming your account. 
+You will receive a verification code in your registered email id. To proceed, use the code in the verification stage for confirming your account. 
 
 The verification stage is for ensuring the security of your account. 
 
