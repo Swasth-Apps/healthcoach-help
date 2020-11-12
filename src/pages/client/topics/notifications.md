@@ -14,8 +14,8 @@ recentTopics:
 ---
 ![Notifications](/img/notifications-i.png "Notifications")
 
-Notifications give a little reminder of all the activities happening in the application.
+Notifications give little reminders of ongoing and upcoming activities in the app.
 
-Whether you sent a request to join the program and the request was approved, or some session is approaching; notifications cover all the information. 
+Whether it's your 'Join Program' request that got approved, or some session that's about to come; notifications deliver every valuable update. 
 
-To view notifications, click on the top left icon present on the dashboard screen.
+To view notifications, click on the top left bell icon present on the dashboard screen.
