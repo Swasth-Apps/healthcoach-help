@@ -40,7 +40,7 @@ To add a session in a program, go to the content tab, click on the “Add sessio
 
 ![Sessions](/img/add-sessions-i.png "Sessions")
 
-There you will have to add the following details as mentioned below-
+Here, you will have to add the following details as mentioned below-
 
 * **Module Name**- Module is a set of sessions based on specific skills from a group, under any of the three evidence-based therapies - DBT, CBT or ACT. For instance, Emotion Regulation. 
 * **Module Image**- The image that is going to be used as a background for each module.
