@@ -12,26 +12,17 @@ recentTopics:
   - slug: topics/invite-users
     title: Invite Users
 ---
-Edit program is an in-app functionality availing which the coach can edit the details of a program after creating the same. 
+Edit Program is an in-app functionality using which the coach can edit the details of a program after creating the same. 
 
-Whether you want to change the name of a program or some other piece- the "edit program" comes in handy.
+Whether you want to change the name of a program or some other piece- the "Edit Program" comes in handy.
 
 ![Edit Program](/img/edit-program-i.png "Edit Program")
 
 To edit a program, 
 
 * Click on the settings (three dots shown on the top right corner) of the Program. 
-
-
-
 * The app will present you with three options- Add Co-Coach, Edit Program, and Delete Program.
-
-
-
 * Click on the "edit program" button, and the app will redirect you to the "Edit Program" page. 
-
-
-
 * The section has four stages- Name, Details, Payment, and Confirm. 
 
 ![Edit Program](/img/edit-program-name-i.png "Edit Program")
