@@ -38,4 +38,4 @@ The second method of increasing the user base is by approving join requests by c
 
 These requests are directed to the coach side for further processing. The coach can either approve or decline these requests, as per their convenience.
 
-The coaches can also mark 'Close to new requests' when the particular cohort is full, or they don’t wish to entertain any more clients.
+The coaches can also mark 'Close to new requests' when the particular cohort is full, or they don’t wish to accept any more clients.
