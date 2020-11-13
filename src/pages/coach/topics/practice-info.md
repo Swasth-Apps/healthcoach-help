@@ -14,22 +14,13 @@ recentTopics:
   - slug: topics/tasks
     title: Tasks
 ---
-Practice info enlists the details of your coaching practice. 
+Practice Info enlists the details of your coaching practice. 
 
-When you send the request to become a coach, following pointers needed to be filled about your practice-
+When you send a request to become coach, the following pointers is required to be filled about your practice-
 
 * Enter the practice name; for instance, CBT Skills.
-
-
-
 * Describe your practice in the description box for clients to know about you a little more. 
-
-
-
 * Select the category of your skills, such as DBT, CBT, ACT, Nutrition, Mindfulness, Substance Abuse, etc.
-
-
-
 * You can also choose to change the background for clients to identify you better. 
 
 ![Coach Profile](/img/coach-profile-i.png "Coach Profile")
@@ -40,4 +31,4 @@ To edit your practice info, click on “My Practice” and the app will redirect
 
 On that page, you can edit the practice name, details, and the background photo. 
 
-Once the changes are made, hit done, and your practice information will be updated.
+Once the changes are made, press Done, and your practice information will be updated.
