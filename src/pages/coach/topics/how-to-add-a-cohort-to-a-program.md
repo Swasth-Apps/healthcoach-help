@@ -12,7 +12,7 @@ recentTopics:
   - slug: topics/what-is-marketing-data
     title: What is Marketing Data?
 ---
-Coaches can add multiple cohorts for a program. To do so, they need to select the cohort tab. Click on “add cohort” and mention the time and date when the cohort is going to begin. 
+Coaches can add multiple cohorts for a program. To do so, they need to select the Cohort tab. Click on “Add Cohort” and mention the time and date when the cohort is going to begin. 
 
 The app will enlist all the available cohorts, and clients can send the joining request for the cohort.
 
