@@ -12,10 +12,10 @@ recentTopics:
   - slug: topics/invite-users-to-join-a-cohort
     title: Invite Users to join a cohort
 ---
-Cohorts are different sets of batches running at different times. The coaches add these cohorts for delivering the program as per their convenience.
+Cohorts are sets of modules/sessions running at different times. The coaches add these cohorts for delivering the program, as per their convenience.
 
-Coaches decide an upper limit of the clients for an individual cohort. 
+Coaches decide the upper limit of the number of clients who can enroll in an individual cohort. 
 
-For instance, if a coach decides to take eight clients in a cohort, then after that, eight clients are finalized, the particular cohort would be closed for new clients. 
+For instance, if a coach decides to accept only eight clients, new members cannot join the cohort once the maximum limit has been reached.
 
-Clients can select the cohort for joining the program from the available items.
+Clients can choose a cohort for joining the program from the available items.
