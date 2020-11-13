@@ -14,24 +14,24 @@ recentTopics:
   - slug: topics/what-is-marketing-data
     title: What is Marketing Data?
 ---
-Health Coach is a coaching platform designed to bring evidence-based therapies to your clients.
+Health Coach is a coaching platform designed to dispense evidence-based therapies to your clients.
 
-Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app is everything that you need to run a successful behavioral health coaching practice. 
+Integrated with three popular applications- DBT Coach, ACT Coach, CBT Companion; the app has everything you need to run a successful behavioral health coaching practice. 
 
 ![Coach Profile](/img/coach-profile-i.png "Coach Profile")
 
 With our application, you can do the following-
 
 * Create Programs, Schedule individual and group Sessions, and Add cohorts. 
-* Once you’re done setting programs, Accept payments for your sessions via our portal. 
+* After you have finished setting programs, Accept payments for your sessions via our portal. 
 * Create your workspace by adding documents, links, and images.
-* Add Content from your library or use our three popular apps- DBT Coach, CBT Companion, ACT Coach. 
-* Skills Coaching to help your clients in dealing with their issues in a structured manner. 
+* Add Content from your library or use our the apps- DBT Coach, CBT Companion, ACT Coach. 
+* Skills Coaching to help your clients deal with their issues in a holistic manner. 
 * You can also choose to participate in our flexible Skills Coaching Network and generate an additional source of revenue. 
-* Assign lessons and exercises to clients as homework, and view their progress.
+* Assign lessons and exercises to clients as homework, and monitor their progress.
 * Appoint a Co-Coach to help you run a successful clinician practice. 
 
-Below you’ll see the recommended walkthrough for a new HealthCoach user (coach) experience, right from simple signup to a fully-fledged account.
+Below you’ll see the recommended walkthrough for a new Health Coach user (coach) experience, right from simple signup to a fully-fledged account.
 
 ## How to create a new account?
 
@@ -47,18 +47,18 @@ The password policy for setting up a Health Coach account is as follows-
 
 ![Signup](/img/signup-i.png "Signup")
 
-Once you’ve entered these details, click on “signup”. 
+Once you’ve entered these details, click on “Signup”. 
 
-After that, you would have received a verification code on your registered mail id, use that code in the verification stage for confirming your account. The verification stage is for ensuring the security of your account. 
+After that, you will receive a verification code on your registered mail id. Use that code in the verification stage for confirming your account. The verification stage is for ensuring the security of your account. 
 
-You can quickly sign up for the Health Coach by following the steps mentioned above. Once completed the process, save the registered email id and password for future logins.
+You can quickly sign up for the Health Coach by following the steps mentioned above. Once the process is completed, save the registered email id and password for future logins.
 
 ![](/img/login-i.png)
 
 ## Forgot your password?
 
-If you ever forget your password, then don’t worry! We have your back. 
+If you ever forget your password, don't worry. We got your back.
 
-On the bottom login screen, there is a forgot your password link which can assist you in the same.
+On the bottom login screen, locate the 'Forgot Your Password' link.
 
-Click on “forgot your password” and enter your registered email id. The link to the new password will be sent on your email account following which you can retrieve your password.
+Click on “Forgot your Password?” and enter your registered email id. The link to the new password will be sent in your email address following which you can retrieve your password.
