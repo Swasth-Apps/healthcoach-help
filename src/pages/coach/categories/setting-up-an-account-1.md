@@ -28,4 +28,4 @@ topics:
       - slug: topics/my-library-1
         title: My Library
 ---
-This walkthrough will guide you on how to set up your account and use features like create programs, add sessions, create your workspace, invite others, appoint Co-Coach, seek support, and much more.
+This walkthrough will guide you on how to set up your account and use features like Create Programs, Add Sessions, Create your Workspace, Invite Others, Appoint Co-Coach, Seek Support, and many more.
