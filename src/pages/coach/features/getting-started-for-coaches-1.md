@@ -20,10 +20,10 @@ topics:
       - slug: categories/marketing
         title: Market your Services
 ---
-HealthCoach provides a platform to connect with your clients and successfully deliver your services. 
+Health Coach provides a platform to connect with your clients and successfully deliver behavioral health services. 
 
-Set up a group and individual programs, accept payments, sign contracts - everything needed to run a successful behavioral health coaching practice.
+Set up individual and group programs, manage cohorts and market your services for a seamless behavioral health coaching practice.
 
-Integrated with three popular applications, DBT Coach, CBT Companion, and ACT coach, the tool helps you in spending more time with clients. 
+Integrated with three applications- DBT Coach, CBT Companion, and ACT coach, the tool enables you to delve deeper into client issues and deliver the best outcome.
 
 This guide is aimed to provide all the necessary details and resources required for digitizing your practice.
