@@ -24,10 +24,10 @@ Usually, the tasks are added in the program itself. However, if a coach prefers 
 
 To add tasks in a cohort, you have to select the cohort and go to the tasks tab. Click on “Add Cohort“ and the app will redirect you to "Add Tasks" page as shown in the image.
 
-There you will have to add the following details as mentioned below-
+Here, you will have to add the following details-
 
 * Input your task name, and add repeats (daily, monthly, none, weekly).
 * Mention the task type, for instance, breathing exercise, or free form.
 * Mention Time at which the user would have to begin the task.
 * Add the day from the start, and a brief description of the task.
-* Go ahead, press “continue” and unfold a new task before your clients.
+* Go ahead, press “continue” to unfold a new task before your clients.
