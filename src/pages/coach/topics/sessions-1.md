@@ -46,7 +46,7 @@ Here, you will have to add the following details as mentioned below-
 * **Module Image**- The image that is going to be used as a background for each module.
 * **Repeats**- It is the frequency at which each module is repeated through various sessions. In total, four types of repeat frequencies are imbibed in the app- none, daily, weekly, monthly. 
 * **Prefix Name**- This is the name of the individual session that is part of a module. Take, for example, if your module name is Emotion Regulation which is weekly repeated, and the prefix name is self-harm, then the final prefix name would be self-harm for week 1, self-harm for week 2, etc. However, later in the journey, this prefix name can be edited using “Edit Session.”
-* **No. of days from start**- This number indicates the digit of the first day of each session of a specific module. For example, if a client enrolls in a program with weekly sessions, Day from Start would be 1,7,15,22...
+* **No. of days from start**- This number indicates the first day of each session of a specific module. For example, if a client enrolls in a program with weekly sessions, Day from Start would be 1,7,15,22...
 * **Description**- Add a brief description of the session; however, this section is entirely optional.
 
 ![Sessions](/img/sessions-libary-content-i.png "Sessions")
