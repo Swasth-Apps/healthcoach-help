@@ -66,7 +66,8 @@ const Navbar = class extends React.Component {
                 <a className="navbar-item transparent-btn base-text" href='https://clinician.swasth.co/'>
                   Clinician
                 </a>
-              </div>{this.props.isClient ?
+              </div>
+              {/*{this.props.isClient ?
               <div className="navbar-end has-text-centered">
                 <Link className="navbar-item transparent-btn coach-btn base-text" to='/coach'>
                   I am a Coach
@@ -76,7 +77,7 @@ const Navbar = class extends React.Component {
                   <Link className="navbar-item transparent-btn client-btn base-text" to='/client'>
                     I am a Client
                   </Link>
-                </div>}
+                </div>}*/}
             </div>
           </div>
         </nav>
