@@ -14,14 +14,15 @@ recentTopics:
   - slug: topics/how-to-add-marketing-data-to-your-program
     title: How to add Marketing data to your program?
 ---
-Tasks are the set of activities that are prescribed to clients throughout the program. After a session is taken, coaches assign a set of activities based on individual sessions, like logging your emotions, practicing meditation, etc. regularly. Usually, the tasks are added in the program itself. However, sometimes a coach would like to add some tasks in a specific cohort as per the requirements. This feature helps in catering to the same. 
+Tasks are the set of activities that are prescribed to clients throughout the program. After a session is taken, coaches assign a set of activities based on individual sessions, like logging your emotions, practicing meditation, etc. regularly. 
+
+Usually, the tasks are added in the program itself. However, sometimes a coach would like to add some tasks in a specific cohort as per the requirements. This feature helps in catering to the same. 
 
 ![Select Cohort](/img/select-cohort-i.png "Select Cohort")
 
-## How to add sessions in a cohort?
+## How to add tasks in a cohort?
 
-To add tasks in a cohort, you have to select the cohort and go to the tasks tab. Click on “add tasks“ and 
-the app would redirect you to add Tasks page as shown in the image.
+To add tasks in a cohort, you have to select the cohort and go to the tasks tab. Click on “add tasks“ and the app would redirect you to "Add Tasks" page as shown in the image.
 
 There you will have to add the following details as mentioned below-
 

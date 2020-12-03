@@ -9,8 +9,6 @@ recentTopics:
     title: Paid Programs
   - slug: topics/scheduled-tasks
     title: Scheduled Tasks
-  - slug: topics/search-programs
-    title: Search Programs
   - slug: categories/support
     title: Support
 ---
